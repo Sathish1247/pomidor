@@ -1,2 +1,2 @@
 # pomidor
-this is a pomidor price prediction project using Machine Learning
+This is a pomidor price prediction using Machine Learning project
