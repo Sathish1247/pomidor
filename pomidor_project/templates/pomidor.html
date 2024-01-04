@@ -1,0 +1,417 @@
+<html>
+    <head>
+        <title>Pomidor Price Detection </title>
+         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    </head>
+    <style>
+        body{
+            background-color:#E0FFFF;
+            background-size: contain;
+            padding:0px;
+        }
+.element-after-container {
+       clear: left;
+}
+.weather-container {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 20px;
+            max-width: 300px;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+            
+        }
+.bgc{
+	margin:none;
+	max-width:960px;
+	float:none;
+	
+}
+
+.h1{
+      left:15%%;
+      font-size: 4em;
+      text-align:center;
+      width:800px;
+      font-weight: bold;
+      color:#17cfcb;
+      text-shadow: 2px 2px #000;
+      letter-spacing: 0.05em;
+      background-color:white;
+      text-decoration:underline;
+    }
+.inp{
+  background-color:#270082;
+  text-align: center;
+  font-size: 25px;
+  width:260px;
+  height:50px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  border-color: aqua;
+  color:rgb(218, 250, 215);
+
+    }
+.custom-btn {
+  background-color:red;
+  width: 230px;
+  height: 60px;
+  color: #fff;
+  font-size:20px;
+  border-radius: 10px;
+  padding: 10px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+   box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+  outline: none;
+}
+.ques-btn {
+  background-color:rgb(97, 243, 90);
+  width: 200px;
+  height: 40px;
+  color: #fff;
+  font-size:20px;
+  border-radius: 10px;
+  padding: 10px 25px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+   box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+  outline: none;
+}
+.btn-9 {
+	margin-left:40%;
+  border: none;
+  transition: all 0.3s ease;
+  overflow: hidden;
+  text-align:center;
+}
+.btn-9:after {
+  position: absolute;
+  content: " ";
+  z-index: -1;
+  top: 0; 
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color:green;
+  transition: all 0.3s ease;
+}
+.cont1{
+  text-align:center;
+  margin-top:10px;
+}
+.text{
+  color:rgb(28, 4, 7);
+  font-family: sans-serif;
+  font-size:40px;
+}
+.btn-9:hover {
+  background: transparent;
+  box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+              -4px -4px 6px 0 rgba(116, 125, 136, .2),
+    inset -4px -4px 6px 0 rgba(255,255,255,.5),
+    inset 4px 4px 6px 0 rgba(116, 125, 136, .3);
+  color: #fff;
+}
+.btn-9:hover:after {
+  -webkit-transform: scale(2) rotate(180deg);
+  transform: scale(2) rotate(180deg);
+  box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+              -4px -4px 6px 0 rgba(116, 125, 136, .2),
+    inset -4px -4px 6px 0 rgba(255,255,255,.5),
+    inset 4px 4px 6px 0 rgba(116, 125, 136, .3);
+}
+.sound-button {
+      display: inline-block;
+      padding: 20px;
+      background-color:rgb(56, 18, 18);
+      border: none;
+      border-radius: 20px;
+      cursor: pointer;
+    }
+    .sound-symbol {
+      /* Add any styling you want for the sound symbol or icon */
+      /* For example, you can use a font icon library like Font Awesome */
+      /* Or use an image for the symbol */
+    }
+.mas{
+	text-align:center;
+}
+.backButton {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.back-button:hover {
+  background-color: #0056b3;
+}
+
+.btn-4 {
+	margin-left:40%;
+    margin-bottom:3%;
+    background-color:#008080;
+  line-height: 72px;
+  padding:0;
+  width: 600px;
+  border: none;
+  text-align: center;
+  color:white;
+  font-size:30px;
+}
+.map-container {
+  width: 100%;
+  height: 500px;
+}
+
+.image1{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width:100%;
+}
+
+img {
+  width: 45%;
+  max-width:100%;
+  height:auto;
+  border-radius:20px;
+  margin-left:10px;
+}
+
+.carousel slide{
+	border-radius:20px
+	}
+.carousel {
+        width:100vw; /* Set the desired width for the carousel */
+        height: 78vh; /* Set the desired height for the carousel */
+        margin:0; /* Center the carousel horizontally */
+        border-radius:20px;
+        text-align:left;
+    }
+
+.carousel-item img {
+        width: 100%; /* Ensure images fill the carousel container */
+        height: 100%; /* Ensure images fill the carousel container */
+        object-fit: cover;
+}
+
+
+    </style>
+    <body>
+    <marquee style="color:#008080; font-size:35px">POMIDOR PRICE PREDICTOR</marquee>
+    <div class="bgc">
+    <div class="container">
+      <div class="mas custom-btn btn-4" >
+        <strong>Rs.{{value}}/- for each box </strong>
+      </div>
+       <div class="detailed-view-bg-container">
+      <div class="detailed-view-card-container">
+        <div id="mysorePalaceCarousel" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#mysorePalaceCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#mysorePalaceCarousel" data-slide-to="1"></li>
+            <li data-target="#mysorePalaceCarousel" data-slide-to="2"></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="https://images.pexels.com/photos/1367242/pexels-photo-1367242.jpeg?auto=compress&cs=tinysrgb&w=600" class="d-block w-100" alt="..." />
+            </div>
+            <div class="carousel-item">
+              <img src="https://images.pexels.com/photos/1002703/pexels-photo-1002703.jpeg?auto=compress&cs=tinysrgb&w=600" class="d-block w-100" alt="..." />
+            </div>
+            <div class="carousel-item">
+              <img src="https://images.pexels.com/photos/161512/eggplant-400-08373800-400-08373801-400-08373802-400-08373803-161512.jpeg?auto=compress&cs=tinysrgb&w=600" class="d-block w-100" alt="..." />
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#mysorePalaceCarousel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#mysorePalaceCarousel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+        <div class="detailed-view-card-text-container">
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class=image1>
+    <img src="https://i0.wp.com/www.mapsofindia.com/maps/india/india-map-annualrainfall.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/India_average_annual_temperature_map_en.svg/1639px-India_average_annual_temperature_map_en.svg.png">
+    </div>
+  <div class="weather-container" id="weather-info">
+  <h1>Weather Information</h1>
+  <div>
+    <select class='inp' id="city-select">
+      <option value="Ongole">Ongole</option>
+      <option value="Visakhapatnam">Visakhapatnam</option>
+      <option value="Vijayawada">Vijayawada</option>
+      <option value="Guntur">Guntur</option>
+      <option value="Nellore">Nellore</option>
+      <option value="Kakinada">Kakinada</option>
+      <option value="Tirupati">Tirupati</option>
+      <option value="Kurnool">Kurnool</option>
+      <option value="Rajahmundry">Rajahmundry</option>
+      <option value="Kadapa">Kadapa</option>
+      <option value="Vizianagaram">Vizianagaram</option>
+      <option value="Eluru">Eluru</option>
+      <option value="Anantapur">Anantapur</option>
+      <option value="Chittoor">Chittoor</option>
+      <option value="Machilipatnam">Machilipatnam</option>
+      <option value="Tenali">Tenali</option>
+    </select>
+    <button style="background-color: red" onclick="getWeather()">Get Weather</button>
+  </div>
+</div>
+
+<script>
+  function getWeather() {
+    var apiKey = 'e9005f5c279614af80131807a3d368ed'; // Replace with your OpenWeather API key
+    var city = document.getElementById('city-select').value;
+
+    var url = `https://api.openweathermap.org/data/2.5/weather?q=${city},IN&appid=${apiKey}`;
+
+    fetch(url)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then((data) => {
+        var weatherDescription = data.weather[0].description;
+        var temperatureKelvin = data.main.temp;
+        var temperatureCelsius = temperatureKelvin - 273.15;
+        var cityName = data.name;
+        var country = data.sys.country;
+
+        var weatherInfo = document.getElementById('weather-info');
+        weatherInfo.innerHTML = `
+            <h1>Weather Information</h1>
+            <h2>Weather Information for ${cityName}</h2>
+            <p>Country: ${country}</p>
+            <p>Temperature: ${temperatureCelsius.toFixed(2)} &#8451;</p>
+            <p>Description: ${weatherDescription}</p>
+        `;
+
+        // Create and append the back button element
+        var backButton = document.createElement('button');
+        backButton.textContent = 'back';
+        backButton.style.backgroundColor = 'white';
+        backButton.onclick = goBack;
+
+        weatherInfo.appendChild(backButton);
+      })
+      .catch((error) => {
+        console.error('Error fetching weather data:', error);
+      });
+  }
+
+  function goBack() {
+    window.location.reload();
+  }
+</script>
+
+        <form action="/predict"method="POST">
+        <label class="text">1.Enter the Year?</label>
+        <button type="button" class="sound-button" onclick="speakQuestion('Enter the year')">
+          <audio id="sound" src="path_to_sound_file.mp3"></audio>
+          &#x1F50A; <!-- Sound symbol (loudspeaker) emoji -->
+        </button>
+        <script>
+          function speakQuestion(question) {
+              const speech = new SpeechSynthesisUtterance();
+              speech.text = question;
+              speech.volume = 1;
+              speech.rate = 1.2;
+              speech.pitch = 1;
+              speech.lang = 'te-IN';
+              speechSynthesis.speak(speech);
+          }
+      </script>
+        <br>
+        <div class="cont1">
+        <select class="inp"name="year"required="year" >
+        <option value=8>2018</option>
+        <option value=9>2019</option>
+        <option value=0>2020</option>
+        <option value=1>2021</option>
+        <option value=2>2022</option>
+        <option value=3>2023</option>
+        <option value=4>2024</option>
+        <option value=5>2025</option>
+        <option value=6>2026</option>
+        <option value=7>2027</option>
+        <option value=8>2028</option>
+        <option value=9>2029</option>
+        </select>
+        </div>
+        <label class="text">2.Enter the sowing month of pomidor?</label>
+        <button type="button" class="sound-button" onclick="speakQuestion('Enter the sowing month of pomidor')">
+          <audio id="sound" src="path_to_sound_file.mp3"></audio>
+          &#x1F50A; <!-- Sound symbol (loudspeaker) emoji -->
+        </button>
+        <script>
+          function speakQuestion(question) {
+              const speech = new SpeechSynthesisUtterance();
+              speech.text = question;
+              speech.volume = 1;
+              speech.rate = 1.2;
+              speech.pitch = 1;
+              speech.lang = 'te-IN';
+              speechSynthesis.speak(speech);
+          }
+      </script>
+        <br>
+        <div class="cont1">
+        <select class="inp"name="month"required="month" >
+        <option value=4>january</option>
+        <option value=3>february</option>
+        <option value=7>march</option>
+        <option value=0>april</option>
+        <option value=8>may</option>
+        <option value=6>june</option>
+        <option value=5>july</option>
+        <option value=1>august</option>
+        <option value=11>september</option>
+        <option value=10>october</option>
+        <option value=9>november</option>
+        <option value=2>december</option>
+        </select>
+        </div>
+        <div class=mas>
+        <button class="custom-btn btn-9" type="submit" class="btn-btn-outline-warning">Predict</button>
+        </div>
+    </form>
+    </div>
+    </div>
+    </div>
+</body>
+  

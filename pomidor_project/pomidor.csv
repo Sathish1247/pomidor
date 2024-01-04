@@ -1,0 +1,5771 @@
+year,month,weather,cost
+2010,january,good,100
+2010,february,good,200
+2010,march,good,400
+2010,april ,good,3000
+2010,may,good,1000
+2010,june ,good,500
+2010,july ,good,200
+2010,august ,good,1000
+2010,september,good,400
+2010,october ,good,200
+2010,november,good,400
+2010,december,good,200
+2010,january,bad,200
+2010,february,bad,400
+2010,march,bad,800
+2010,april ,bad,6400
+2010,may,bad,2000
+2010,june ,bad,1000
+2010,july ,bad,400
+2010,august ,bad,2000
+2010,september,bad,800
+2010,october ,bad,400
+2010,november,bad,800
+2010,december,bad,400
+2010,january,good,200
+2010,january,bad,300
+2010,january,good,100
+2010,february,good,200
+2010,february,bad,400
+2010,february,good,200
+2010,february,bad,500
+2010,january,bad,200
+2010,march,good,300
+2010,march,good,300
+2010,march,bad,800
+2010,march,bad,900
+2010,april ,bad,6200
+2010,april ,bad,6400
+2010,april ,good,2800
+2010,april ,good,2790
+2010,may,bad,2200
+2010,may,bad,2400
+2010,may,good,800
+2010,may,good,600
+2010,june ,bad,1000
+2010,june ,bad,1000
+2010,june ,good,500
+2010,june ,good,600
+2010,july ,bad,400
+2010,july ,bad,500
+2010,july ,good,300
+2010,july ,good,200
+2010,august ,bad,2200
+2010,august ,bad,2200
+2010,august ,good,1000
+2010,august ,good,900
+2010,september,good,300
+2010,september,good,400
+2010,september,bad,900
+2010,september,bad,1000
+2010,october ,good,100
+2010,october ,good,200
+2010,october ,bad,400
+2010,october ,bad,500
+2010,november,bad,900
+2010,november,bad,1000
+2010,november,good,300
+2010,november,good,400
+2010,december,bad,400
+2010,december,bad,500
+2010,december,good,100
+2010,december,good,200
+2010,january,good,100
+2010,january,good,100
+2010,january,bad,400
+2010,january,bad,400
+2010,february,bad,600
+2010,february,bad,700
+2010,february,good,100
+2010,february,good,100
+2010,march,good,200
+2010,march,good,100
+2010,march,bad,1000
+2010,march,bad,1000
+2010,april ,bad,6400
+2010,april ,bad,6400
+2010,april ,good,2000
+2010,april ,good,1000
+2010,may,bad,3000
+2010,may,bad,2800
+2010,may,good,800
+2010,may,good,900
+2010,june ,bad,1000
+2010,june ,bad,1600
+2010,june ,good,300
+2010,june ,good,200
+2010,july ,bad,800
+2010,july ,bad,1000
+2010,july ,good,100
+2010,july ,good,100
+2010,august ,bad,2790
+2010,august ,bad,3000
+2010,august ,good,500
+2010,august ,good,300
+2010,september,good,200
+2010,september,good,200
+2010,september,bad,1000
+2010,september,bad,1000
+2010,october ,good,200
+2010,october ,good,100
+2010,october ,bad,800
+2010,october ,bad,700
+2010,november,bad,1000
+2010,november,bad,1600
+2010,november,good,200
+2010,november,good,100
+2010,december,bad,600
+2010,december,bad,800
+2010,december,good,200
+2010,december,good,100
+2010,january,good,100
+2010,february,bad,500
+2010,march,good,400
+2010,april ,bad,5600
+2010,may,good,900
+2010,june ,bad,1000
+2010,july ,good,200
+2010,august ,bad,2200
+2010,september,good,400
+2010,october ,bad,400
+2010,november,good,300
+2010,december,bad,400
+2010,january,good,100
+2010,january,good,100
+2010,january,good,100
+2010,january,good,200
+2010,january,good,200
+2010,january,good,200
+2010,february,good,200
+2010,february,good,200
+2010,february,good,200
+2010,february,good,300
+2010,february,good,300
+2010,february,good,300
+2010,march,good,400
+2010,march,good,400
+2010,march,good,400
+2010,march,good,400
+2010,march,good,500
+2010,march,good,500
+2010,april ,good,3000
+2010,april ,good,3050
+2010,april ,good,3000
+2010,april ,good,3030
+2010,april ,good,2800
+2010,april ,good,2800
+2010,may,good,1000
+2010,may,good,1000
+2010,may,good,1000
+2010,may,good,800
+2010,may,good,900
+2010,may,good,800
+2010,june ,good,500
+2010,june ,good,500
+2010,june ,good,500
+2010,june ,good,400
+2010,june ,good,400
+2010,june ,good,400
+2010,july ,good,200
+2010,july ,good,200
+2010,july ,good,200
+2010,july ,good,200
+2010,july ,good,200
+2010,july ,good,100
+2010,august ,good,1000
+2010,august ,good,1000
+2010,august ,good,900
+2010,august ,good,900
+2010,august ,good,800
+2010,august ,good,800
+2010,september,good,400
+2010,september,good,400
+2010,september,good,400
+2010,september,good,400
+2010,september,good,300
+2010,september,good,300
+2010,october ,good,200
+2010,october ,good,200
+2010,october ,good,200
+2010,october ,good,200
+2010,october ,good,200
+2010,october ,good,100
+2010,november,good,400
+2010,november,good,400
+2010,november,good,400
+2010,november,good,400
+2010,november,good,300
+2010,november,good,300
+2010,december,good,200
+2010,december,good,200
+2010,december,good,200
+2010,december,good,100
+2010,december,good,100
+2010,december,good,100
+2010,january,bad,200
+2010,january,bad,200
+2010,january,bad,200
+2010,january,bad,200
+2010,january,bad,300
+2010,january,bad,300
+2010,february,bad,400
+2010,february,bad,400
+2010,february,bad,400
+2010,february,bad,400
+2010,february,bad,500
+2010,february,bad,500
+2010,march,bad,800
+2010,march,bad,800
+2010,march,bad,800
+2010,march,bad,900
+2010,march,bad,900
+2010,march,bad,900
+2010,april ,bad,6200
+2010,april ,bad,5800
+2010,april ,bad,6200
+2010,april ,bad,6200
+2010,april ,bad,6400
+2010,april ,bad,6600
+2010,may,bad,2000
+2010,may,bad,2000
+2010,may,bad,2200
+2010,may,bad,2200
+2010,may,bad,1800
+2010,may,bad,2000
+2010,june ,bad,1000
+2010,june ,bad,1200
+2010,june ,bad,1000
+2010,june ,bad,1200
+2010,june ,bad,1400
+2010,june ,bad,1200
+2010,july ,bad,400
+2010,july ,bad,400
+2010,july ,bad,500
+2010,july ,bad,500
+2010,july ,bad,400
+2010,july ,bad,500
+2010,august ,bad,2000
+2010,august ,bad,2000
+2010,august ,bad,2200
+2010,august ,bad,1800
+2010,august ,bad,2200
+2010,august ,bad,1800
+2010,september,bad,800
+2010,september,bad,800
+2010,september,bad,900
+2010,september,bad,1000
+2010,september,bad,900
+2010,september,bad,1000
+2010,october ,bad,400
+2010,october ,bad,400
+2010,october ,bad,400
+2010,october ,bad,400
+2010,october ,bad,400
+2010,october ,bad,500
+2010,november,bad,800
+2010,november,bad,800
+2010,november,bad,800
+2010,november,bad,800
+2010,november,bad,800
+2010,november,bad,800
+2010,december,bad,400
+2010,december,bad,400
+2010,december,bad,400
+2010,december,bad,500
+2010,december,bad,500
+2010,december,bad,500
+2010,january,good,100
+2010,february,good,200
+2010,march,good,400
+2010,april ,good,3000
+2010,may,good,1000
+2010,june ,good,500
+2010,july ,good,200
+2010,august ,good,1000
+2010,september,good,400
+2010,october ,good,200
+2010,november,good,400
+2010,december,good,200
+2010,january,bad,200
+2010,february,bad,400
+2010,march,bad,800
+2010,april ,bad,6400
+2010,may,bad,2000
+2010,june ,bad,1000
+2010,july ,bad,400
+2010,august ,bad,2000
+2010,september,bad,800
+2010,october ,bad,400
+2010,november,bad,800
+2010,december,bad,400
+2010,january,good,200
+2010,january,bad,300
+2010,january,good,100
+2010,february,good,100
+2010,february,bad,400
+2010,february,good,200
+2010,february,bad,500
+2010,january,bad,200
+2010,march,good,300
+2010,march,good,300
+2010,march,bad,800
+2010,march,bad,900
+2010,april ,bad,6200
+2010,april ,bad,6400
+2010,april ,good,2800
+2010,april ,good,2790
+2010,may,bad,2200
+2010,may,bad,2400
+2010,may,good,800
+2010,may,good,600
+2010,june ,bad,1000
+2010,june ,bad,1000
+2010,june ,good,550
+2010,june ,good,600
+2010,july ,bad,400
+2010,july ,bad,500
+2010,july ,good,300
+2010,july ,good,200
+2010,august ,bad,2000
+2010,august ,bad,2200
+2010,august ,good,1200
+2010,august ,good,900
+2010,september,good,300
+2010,september,good,400
+2010,september,bad,900
+2010,september,bad,1000
+2010,october ,good,100
+2010,october ,good,200
+2010,october ,bad,400
+2010,october ,bad,500
+2010,november,bad,900
+2010,november,bad,1000
+2010,november,good,300
+2010,november,good,400
+2010,december,bad,400
+2010,december,bad,500
+2010,december,good,100
+2010,december,good,200
+2010,january,good,100
+2010,january,good,100
+2010,january,bad,400
+2010,january,bad,400
+2010,february,bad,600
+2010,february,bad,700
+2010,february,good,100
+2010,february,good,100
+2010,march,good,200
+2010,march,good,100
+2010,march,bad,1000
+2010,march,bad,1000
+2010,april ,bad,6400
+2010,april ,bad,7000
+2010,april ,good,2000
+2010,april ,good,1000
+2010,may,bad,3000
+2010,may,bad,2800
+2010,may,good,800
+2010,may,good,900
+2010,june ,bad,1400
+2010,june ,bad,1600
+2010,june ,good,300
+2010,june ,good,200
+2010,july ,bad,800
+2010,july ,bad,1000
+2010,july ,good,100
+2010,july ,good,100
+2010,august ,bad,2400
+2010,august ,bad,3000
+2010,august ,good,500
+2010,august ,good,300
+2010,september,good,200
+2010,september,good,200
+2010,september,bad,1000
+2010,september,bad,1200
+2010,october ,good,200
+2010,october ,good,100
+2010,october ,bad,800
+2010,october ,bad,700
+2010,november,bad,1000
+2010,november,bad,1600
+2010,november,good,200
+2010,november,good,200
+2010,december,bad,600
+2010,december,bad,800
+2010,december,good,100
+2010,december,good,100
+2010,january,good,100
+2010,february,bad,500
+2010,march,good,400
+2010,april ,bad,5600
+2010,may,good,900
+2010,june ,bad,1000
+2010,july ,good,200
+2010,august ,bad,2000
+2010,september,good,400
+2010,october ,bad,400
+2010,november,good,300
+2010,december,bad,400
+2010,january,good,100
+2010,january,good,100
+2010,january,good,100
+2010,january,good,200
+2010,january,good,200
+2010,january,good,200
+2010,february,good,200
+2010,february,good,200
+2010,february,good,200
+2010,february,good,300
+2010,february,good,300
+2010,february,good,300
+2010,march,good,400
+2010,march,good,400
+2010,march,good,400
+2010,march,good,400
+2010,march,good,500
+2010,march,good,500
+2010,april ,good,3000
+2010,april ,good,3050
+2010,april ,good,3000
+2010,april ,good,3030
+2010,april ,good,3000
+2010,april ,good,2800
+2010,may,good,1000
+2010,may,good,1000
+2010,may,good,1000
+2010,may,good,800
+2010,may,good,900
+2010,may,good,800
+2010,june ,good,500
+2010,june ,good,500
+2010,june ,good,500
+2010,june ,good,400
+2010,june ,good,400
+2010,june ,good,400
+2010,july ,good,200
+2010,july ,good,200
+2010,july ,good,200
+2010,july ,good,200
+2010,july ,good,200
+2010,july ,good,100
+2010,august ,good,1000
+2010,august ,good,1000
+2010,august ,good,900
+2010,august ,good,900
+2010,august ,good,800
+2010,august ,good,800
+2010,september,good,400
+2010,september,good,400
+2010,september,good,400
+2010,september,good,400
+2010,september,good,300
+2010,september,good,300
+2010,october ,good,200
+2010,october ,good,200
+2010,october ,good,200
+2010,october ,good,200
+2010,october ,good,200
+2010,october ,good,100
+2010,november,good,400
+2010,november,good,400
+2010,november,good,400
+2010,november,good,400
+2010,november,good,300
+2010,november,good,300
+2010,december,good,200
+2010,december,good,200
+2010,december,good,200
+2010,december,good,100
+2010,december,good,100
+2010,december,good,100
+2010,january,bad,200
+2010,january,bad,200
+2010,january,bad,200
+2010,january,bad,200
+2010,january,bad,300
+2010,january,bad,300
+2010,february,bad,400
+2010,february,bad,400
+2010,february,bad,400
+2010,february,bad,400
+2010,february,bad,500
+2010,february,bad,500
+2010,march,bad,800
+2010,march,bad,800
+2010,march,bad,800
+2010,march,bad,900
+2010,march,bad,900
+2010,march,bad,900
+2010,april ,bad,6200
+2010,april ,bad,5800
+2010,april ,bad,6200
+2010,april ,bad,6300
+2010,april ,bad,6300
+2010,april ,bad,6500
+2010,may,bad,2000
+2010,may,bad,2210
+2010,may,bad,2200
+2010,may,bad,2300
+2010,may,bad,1900
+2010,may,bad,2000
+2010,june ,bad,1000
+2010,june ,bad,1200
+2010,june ,bad,1000
+2010,june ,bad,1200
+2010,june ,bad,1000
+2010,june ,bad,1200
+2010,july ,bad,400
+2010,july ,bad,400
+2010,july ,bad,500
+2010,july ,bad,500
+2010,july ,bad,400
+2010,july ,bad,500
+2010,august ,bad,2000
+2010,august ,bad,2000
+2010,august ,bad,2200
+2010,august ,bad,1900
+2010,august ,bad,2210
+2010,august ,bad,1800
+2010,september,bad,800
+2010,september,bad,800
+2010,september,bad,900
+2010,september,bad,1000
+2010,september,bad,900
+2010,september,bad,1000
+2010,october ,bad,400
+2010,october ,bad,400
+2010,october ,bad,400
+2010,october ,bad,400
+2010,october ,bad,400
+2010,october ,bad,500
+2010,november,bad,800
+2010,november,bad,800
+2010,november,bad,800
+2010,november,bad,800
+2010,november,bad,800
+2010,november,bad,800
+2010,december,bad,400
+2010,december,bad,400
+2010,december,bad,400
+2010,december,bad,500
+2010,december,bad,500
+2010,december,bad,500
+2010,january,bad,200
+2010,february,bad,400
+2010,march,bad,800
+2010,april ,bad,6400
+2010,may,bad,2000
+2010,june ,bad,1000
+2010,july ,bad,400
+2010,august ,bad,2000
+2010,september,bad,800
+2010,october ,bad,400
+2010,november,bad,800
+2010,december,bad,400
+2010,january,good,100
+2010,april ,bad,7000
+2010,april ,bad,7000
+2010,december,bad,550
+2010,april ,bad,5800
+2010,april ,bad,6200
+2010,april ,bad,6300
+2010,april ,bad,6500
+2010,april ,bad,6600
+2010,april ,bad,6600
+2010,august ,good,1600
+2010,june ,bad,2300
+2010,april ,bad,6600
+2011,january,good,110
+2011,february,good,210
+2011,march,good,410
+2011,april ,good,3010
+2011,may,good,1010
+2011,june ,good,510
+2011,july ,good,210
+2011,august ,good,1010
+2011,september,good,410
+2011,october ,good,210
+2011,november,good,410
+2011,december,good,210
+2011,january,bad,210
+2011,february,bad,410
+2011,march,bad,810
+2011,april ,bad,6010
+2011,may,bad,2010
+2011,june ,bad,1010
+2011,july ,bad,410
+2011,august ,bad,2010
+2011,september,bad,810
+2011,october ,bad,410
+2011,november,bad,810
+2011,december,bad,410
+2011,january,good,210
+2011,january,bad,310
+2011,january,good,110
+2011,february,good,210
+2011,february,bad,410
+2011,february,good,210
+2011,february,bad,510
+2011,january,bad,210
+2011,march,good,310
+2011,march,good,310
+2011,march,bad,810
+2011,march,bad,910
+2011,april ,bad,6210
+2011,april ,bad,6410
+2011,april ,good,2810
+2011,april ,good,2610
+2011,may,bad,2210
+2011,may,bad,2410
+2011,may,good,810
+2011,may,good,610
+2011,june ,bad,1010
+2011,june ,bad,1010
+2011,june ,good,510
+2011,june ,good,610
+2011,july ,bad,410
+2011,july ,bad,510
+2011,july ,good,310
+2011,july ,good,210
+2011,august ,bad,2210
+2011,august ,bad,2210
+2011,august ,good,1010
+2011,august ,good,910
+2011,september,good,310
+2011,september,good,410
+2011,september,bad,910
+2011,september,bad,1010
+2011,october ,good,110
+2011,october ,good,210
+2011,october ,bad,410
+2011,october ,bad,510
+2011,november,bad,910
+2011,november,bad,1010
+2011,november,good,310
+2011,november,good,410
+2011,december,bad,410
+2011,december,bad,510
+2011,december,good,110
+2011,december,good,210
+2011,january,good,110
+2011,january,good,110
+2011,january,bad,410
+2011,january,bad,410
+2011,february,bad,610
+2011,february,bad,710
+2011,february,good,110
+2011,february,good,110
+2011,march,good,210
+2011,march,good,110
+2011,march,bad,1010
+2011,march,bad,1010
+2011,april ,bad,6410
+2011,april ,bad,6410
+2011,april ,good,2010
+2011,april ,good,1010
+2011,may,bad,3010
+2011,may,bad,2810
+2011,may,good,810
+2011,may,good,910
+2011,june ,bad,1010
+2011,june ,bad,1610
+2011,june ,good,310
+2011,june ,good,210
+2011,july ,bad,810
+2011,july ,bad,1010
+2011,july ,good,110
+2011,july ,good,110
+2011,august ,bad,2610
+2011,august ,bad,3010
+2011,august ,good,510
+2011,august ,good,310
+2011,september,good,210
+2011,september,good,210
+2011,september,bad,1010
+2011,september,bad,1010
+2011,october ,good,210
+2011,october ,good,110
+2011,october ,bad,810
+2011,october ,bad,710
+2011,november,bad,1010
+2011,november,bad,1610
+2011,november,good,210
+2011,november,good,110
+2011,december,bad,610
+2011,december,bad,810
+2011,december,good,210
+2011,december,good,110
+2011,january,good,110
+2011,february,bad,510
+2011,march,good,410
+2011,april ,bad,5610
+2011,may,good,910
+2011,june ,bad,1010
+2011,july ,good,210
+2011,august ,bad,2210
+2011,september,good,410
+2011,october ,bad,410
+2011,november,good,310
+2011,december,bad,410
+2011,january,good,110
+2011,january,good,110
+2011,january,good,110
+2011,january,good,210
+2011,january,good,210
+2011,january,good,210
+2011,february,good,210
+2011,february,good,210
+2011,february,good,210
+2011,february,good,310
+2011,february,good,310
+2011,february,good,310
+2011,march,good,410
+2011,march,good,410
+2011,march,good,410
+2011,march,good,410
+2011,march,good,510
+2011,march,good,510
+2011,april ,good,3010
+2011,april ,good,3210
+2011,april ,good,3010
+2011,april ,good,3050
+2011,april ,good,2810
+2011,april ,good,2810
+2011,may,good,1010
+2011,may,good,1010
+2011,may,good,1010
+2011,may,good,810
+2011,may,good,910
+2011,may,good,810
+2011,june ,good,510
+2011,june ,good,510
+2011,june ,good,510
+2011,june ,good,410
+2011,june ,good,410
+2011,june ,good,410
+2011,july ,good,210
+2011,july ,good,210
+2011,july ,good,210
+2011,july ,good,210
+2011,july ,good,210
+2011,july ,good,110
+2011,august ,good,1010
+2011,august ,good,1010
+2011,august ,good,910
+2011,august ,good,910
+2011,august ,good,810
+2011,august ,good,810
+2011,september,good,410
+2011,september,good,410
+2011,september,good,410
+2011,september,good,410
+2011,september,good,310
+2011,september,good,310
+2011,october ,good,210
+2011,october ,good,210
+2011,october ,good,210
+2011,october ,good,210
+2011,october ,good,210
+2011,october ,good,110
+2011,november,good,410
+2011,november,good,410
+2011,november,good,410
+2011,november,good,410
+2011,november,good,310
+2011,november,good,310
+2011,december,good,210
+2011,december,good,210
+2011,december,good,210
+2011,december,good,110
+2011,december,good,110
+2011,december,good,110
+2011,january,bad,210
+2011,january,bad,210
+2011,january,bad,210
+2011,january,bad,210
+2011,january,bad,310
+2011,january,bad,310
+2011,february,bad,410
+2011,february,bad,410
+2011,february,bad,410
+2011,february,bad,410
+2011,february,bad,510
+2011,february,bad,510
+2011,march,bad,810
+2011,march,bad,810
+2011,march,bad,810
+2011,march,bad,910
+2011,march,bad,910
+2011,march,bad,910
+2011,april ,bad,6210
+2011,april ,bad,5810
+2011,april ,bad,6210
+2011,april ,bad,6210
+2011,april ,bad,6410
+2011,april ,bad,6610
+2011,may,bad,2010
+2011,may,bad,2010
+2011,may,bad,2210
+2011,may,bad,2210
+2011,may,bad,1810
+2011,may,bad,2010
+2011,june ,bad,1010
+2011,june ,bad,1210
+2011,june ,bad,1010
+2011,june ,bad,1210
+2011,june ,bad,1410
+2011,june ,bad,1210
+2011,july ,bad,410
+2011,july ,bad,410
+2011,july ,bad,510
+2011,july ,bad,510
+2011,july ,bad,410
+2011,july ,bad,510
+2011,august ,bad,2010
+2011,august ,bad,2010
+2011,august ,bad,2210
+2011,august ,bad,1810
+2011,august ,bad,2210
+2011,august ,bad,1810
+2011,september,bad,810
+2011,september,bad,810
+2011,september,bad,910
+2011,september,bad,1010
+2011,september,bad,910
+2011,september,bad,1010
+2011,october ,bad,410
+2011,october ,bad,410
+2011,october ,bad,410
+2011,october ,bad,410
+2011,october ,bad,410
+2011,october ,bad,510
+2011,november,bad,810
+2011,november,bad,810
+2011,november,bad,810
+2011,november,bad,810
+2011,november,bad,810
+2011,november,bad,810
+2011,december,bad,410
+2011,december,bad,410
+2011,december,bad,410
+2011,december,bad,510
+2011,december,bad,510
+2011,december,bad,510
+2011,january,good,110
+2011,february,good,210
+2011,march,good,410
+2011,april ,good,3010
+2011,may,good,1010
+2011,june ,good,510
+2011,july ,good,210
+2011,august ,good,1010
+2011,september,good,410
+2011,october ,good,210
+2011,november,good,410
+2011,december,good,210
+2011,january,bad,210
+2011,february,bad,410
+2011,march,bad,810
+2011,april ,bad,6010
+2011,may,bad,2010
+2011,june ,bad,1010
+2011,july ,bad,410
+2011,august ,bad,2010
+2011,september,bad,810
+2011,october ,bad,410
+2011,november,bad,810
+2011,december,bad,410
+2011,january,good,210
+2011,january,bad,310
+2011,january,good,110
+2011,february,good,110
+2011,february,bad,410
+2011,february,good,210
+2011,february,bad,510
+2011,january,bad,210
+2011,march,good,310
+2011,march,good,310
+2011,march,bad,810
+2011,march,bad,910
+2011,april ,bad,6210
+2011,april ,bad,6410
+2011,april ,good,2810
+2011,april ,good,2610
+2011,may,bad,2210
+2011,may,bad,2410
+2011,may,good,810
+2011,may,good,610
+2011,june ,bad,1010
+2011,june ,bad,1010
+2011,june ,good,560
+2011,june ,good,610
+2011,july ,bad,410
+2011,july ,bad,510
+2011,july ,good,310
+2011,july ,good,210
+2011,august ,bad,2010
+2011,august ,bad,2210
+2011,august ,good,1210
+2011,august ,good,910
+2011,september,good,310
+2011,september,good,410
+2011,september,bad,910
+2011,september,bad,1010
+2011,october ,good,110
+2011,october ,good,210
+2011,october ,bad,410
+2011,october ,bad,510
+2011,november,bad,910
+2011,november,bad,1010
+2011,november,good,310
+2011,november,good,410
+2011,december,bad,410
+2011,december,bad,510
+2011,december,good,110
+2011,december,good,210
+2011,january,good,110
+2011,january,good,110
+2011,january,bad,410
+2011,january,bad,410
+2011,february,bad,610
+2011,february,bad,710
+2011,february,good,110
+2011,february,good,110
+2011,march,good,210
+2011,march,good,110
+2011,march,bad,1010
+2011,march,bad,1010
+2011,april ,bad,6410
+2011,april ,bad,7010
+2011,april ,good,2010
+2011,april ,good,1010
+2011,may,bad,3010
+2011,may,bad,2810
+2011,may,good,810
+2011,may,good,910
+2011,june ,bad,1410
+2011,june ,bad,1610
+2011,june ,good,310
+2011,june ,good,210
+2011,july ,bad,810
+2011,july ,bad,1010
+2011,july ,good,110
+2011,july ,good,110
+2011,august ,bad,2410
+2011,august ,bad,3010
+2011,august ,good,510
+2011,august ,good,310
+2011,september,good,210
+2011,september,good,210
+2011,september,bad,1010
+2011,september,bad,1210
+2011,october ,good,210
+2011,october ,good,110
+2011,october ,bad,810
+2011,october ,bad,710
+2011,november,bad,1010
+2011,november,bad,1610
+2011,november,good,210
+2011,november,good,210
+2011,december,bad,610
+2011,december,bad,810
+2011,december,good,110
+2011,december,good,110
+2011,january,good,110
+2011,february,bad,510
+2011,march,good,410
+2011,april ,bad,5610
+2011,may,good,910
+2011,june ,bad,1010
+2011,july ,good,210
+2011,august ,bad,2010
+2011,september,good,410
+2011,october ,bad,410
+2011,november,good,310
+2011,december,bad,410
+2011,january,good,110
+2011,january,good,110
+2011,january,good,110
+2011,january,good,210
+2011,january,good,210
+2011,january,good,210
+2011,february,good,210
+2011,february,good,210
+2011,february,good,210
+2011,february,good,310
+2011,february,good,310
+2011,february,good,310
+2011,march,good,410
+2011,march,good,410
+2011,march,good,410
+2011,march,good,410
+2011,march,good,510
+2011,march,good,510
+2011,april ,good,3010
+2011,april ,good,3210
+2011,april ,good,3010
+2011,april ,good,3050
+2011,april ,good,3010
+2011,april ,good,2810
+2011,may,good,1010
+2011,may,good,1010
+2011,may,good,1010
+2011,may,good,810
+2011,may,good,910
+2011,may,good,810
+2011,june ,good,510
+2011,june ,good,510
+2011,june ,good,510
+2011,june ,good,410
+2011,june ,good,410
+2011,june ,good,410
+2011,july ,good,210
+2011,july ,good,210
+2011,july ,good,210
+2011,july ,good,210
+2011,july ,good,210
+2011,july ,good,110
+2011,august ,good,1010
+2011,august ,good,1010
+2011,august ,good,910
+2011,august ,good,910
+2011,august ,good,810
+2011,august ,good,810
+2011,september,good,410
+2011,september,good,410
+2011,september,good,410
+2011,september,good,410
+2011,september,good,310
+2011,september,good,310
+2011,october ,good,210
+2011,october ,good,210
+2011,october ,good,210
+2011,october ,good,210
+2011,october ,good,210
+2011,october ,good,110
+2011,november,good,410
+2011,november,good,410
+2011,november,good,410
+2011,november,good,410
+2011,november,good,310
+2011,november,good,310
+2011,december,good,210
+2011,december,good,210
+2011,december,good,210
+2011,december,good,110
+2011,december,good,110
+2011,december,good,110
+2011,january,bad,210
+2011,january,bad,210
+2011,january,bad,210
+2011,january,bad,210
+2011,january,bad,310
+2011,january,bad,310
+2011,february,bad,410
+2011,february,bad,410
+2011,february,bad,410
+2011,february,bad,410
+2011,february,bad,510
+2011,february,bad,510
+2011,march,bad,810
+2011,march,bad,810
+2011,march,bad,810
+2011,march,bad,910
+2011,march,bad,910
+2011,march,bad,910
+2011,april ,bad,6210
+2011,april ,bad,5810
+2011,april ,bad,6210
+2011,april ,bad,6310
+2011,april ,bad,6310
+2011,april ,bad,6510
+2011,may,bad,2010
+2011,may,bad,2210
+2011,may,bad,2210
+2011,may,bad,2210
+2011,may,bad,1910
+2011,may,bad,2010
+2011,june ,bad,1010
+2011,june ,bad,1210
+2011,june ,bad,1010
+2011,june ,bad,1210
+2011,june ,bad,1010
+2011,june ,bad,1210
+2011,july ,bad,410
+2011,july ,bad,410
+2011,july ,bad,510
+2011,july ,bad,510
+2011,july ,bad,410
+2011,july ,bad,510
+2011,august ,bad,2010
+2011,august ,bad,2010
+2011,august ,bad,2210
+2011,august ,bad,1910
+2011,august ,bad,2210
+2011,august ,bad,1810
+2011,september,bad,810
+2011,september,bad,810
+2011,september,bad,910
+2011,september,bad,1010
+2011,september,bad,910
+2011,september,bad,1010
+2011,october ,bad,410
+2011,october ,bad,410
+2011,october ,bad,410
+2011,october ,bad,410
+2011,october ,bad,410
+2011,october ,bad,510
+2011,november,bad,810
+2011,november,bad,810
+2011,november,bad,810
+2011,november,bad,810
+2011,november,bad,810
+2011,november,bad,810
+2011,december,bad,410
+2011,december,bad,410
+2011,december,bad,410
+2011,december,bad,510
+2011,december,bad,510
+2011,december,bad,510
+2011,january,bad,210
+2011,february,bad,410
+2011,march,bad,810
+2011,april ,bad,6010
+2011,may,bad,2010
+2011,june ,bad,1010
+2011,july ,bad,410
+2011,august ,bad,2010
+2011,september,bad,810
+2011,october ,bad,410
+2011,november,bad,810
+2011,december,bad,410
+2011,january,good,110
+2011,april ,bad,7010
+2011,april ,bad,7010
+2011,december,bad,560
+2011,april ,bad,5810
+2011,april ,bad,6210
+2011,april ,bad,6310
+2011,april ,bad,6510
+2011,april ,bad,6610
+2011,april ,bad,6610
+2011,august ,good,1610
+2011,june ,bad,2210
+2011,april ,bad,6610
+2012,january,good,90
+2012,february,good,190
+2012,march,good,390
+2012,april ,good,2990
+2012,may,good,990
+2012,june ,good,490
+2012,july ,good,190
+2012,august ,good,990
+2012,september,good,390
+2012,october ,good,190
+2012,november,good,390
+2012,december,good,190
+2012,january,bad,190
+2012,february,bad,390
+2012,march,bad,790
+2012,april ,bad,5990
+2012,may,bad,1990
+2012,june ,bad,990
+2012,july ,bad,390
+2012,august ,bad,1990
+2012,september,bad,790
+2012,october ,bad,390
+2012,november,bad,790
+2012,december,bad,390
+2012,january,good,190
+2012,january,bad,290
+2012,january,good,90
+2012,february,good,190
+2012,february,bad,390
+2012,february,good,190
+2012,february,bad,490
+2012,january,bad,190
+2012,march,good,290
+2012,march,good,290
+2012,march,bad,790
+2012,march,bad,890
+2012,april ,bad,6190
+2012,april ,bad,6390
+2012,april ,good,2790
+2012,april ,good,2590
+2012,may,bad,2190
+2012,may,bad,2390
+2012,may,good,790
+2012,may,good,590
+2012,june ,bad,990
+2012,june ,bad,990
+2012,june ,good,490
+2012,june ,good,590
+2012,july ,bad,390
+2012,july ,bad,490
+2012,july ,good,290
+2012,july ,good,190
+2012,august ,bad,2190
+2012,august ,bad,2190
+2012,august ,good,990
+2012,august ,good,890
+2012,september,good,290
+2012,september,good,390
+2012,september,bad,890
+2012,september,bad,990
+2012,october ,good,90
+2012,october ,good,190
+2012,october ,bad,390
+2012,october ,bad,490
+2012,november,bad,890
+2012,november,bad,990
+2012,november,good,290
+2012,november,good,390
+2012,december,bad,390
+2012,december,bad,490
+2012,december,good,90
+2012,december,good,190
+2012,january,good,90
+2012,january,good,90
+2012,january,bad,390
+2012,january,bad,390
+2012,february,bad,590
+2012,february,bad,690
+2012,february,good,90
+2012,february,good,90
+2012,march,good,190
+2012,march,good,90
+2012,march,bad,990
+2012,march,bad,990
+2012,april ,bad,6390
+2012,april ,bad,6390
+2012,april ,good,1990
+2012,april ,good,990
+2012,may,bad,2990
+2012,may,bad,2790
+2012,may,good,790
+2012,may,good,890
+2012,june ,bad,990
+2012,june ,bad,1590
+2012,june ,good,290
+2012,june ,good,190
+2012,july ,bad,790
+2012,july ,bad,990
+2012,july ,good,90
+2012,july ,good,90
+2012,august ,bad,2590
+2012,august ,bad,2990
+2012,august ,good,490
+2012,august ,good,290
+2012,september,good,190
+2012,september,good,190
+2012,september,bad,990
+2012,september,bad,990
+2012,october ,good,190
+2012,october ,good,90
+2012,october ,bad,790
+2012,october ,bad,690
+2012,november,bad,990
+2012,november,bad,1590
+2012,november,good,190
+2012,november,good,90
+2012,december,bad,590
+2012,december,bad,790
+2012,december,good,190
+2012,december,good,90
+2012,january,good,90
+2012,february,bad,490
+2012,march,good,390
+2012,april ,bad,5590
+2012,may,good,890
+2012,june ,bad,990
+2012,july ,good,190
+2012,august ,bad,2190
+2012,september,good,390
+2012,october ,bad,390
+2012,november,good,290
+2012,december,bad,390
+2012,january,good,90
+2012,january,good,90
+2012,january,good,90
+2012,january,good,190
+2012,january,good,190
+2012,january,good,190
+2012,february,good,190
+2012,february,good,190
+2012,february,good,190
+2012,february,good,290
+2012,february,good,290
+2012,february,good,290
+2012,march,good,390
+2012,march,good,390
+2012,march,good,390
+2012,march,good,390
+2012,march,good,490
+2012,march,good,490
+2012,april ,good,2990
+2012,april ,good,3190
+2012,april ,good,2990
+2012,april ,good,3390
+2012,april ,good,2790
+2012,april ,good,2790
+2012,may,good,990
+2012,may,good,990
+2012,may,good,990
+2012,may,good,790
+2012,may,good,890
+2012,may,good,790
+2012,june ,good,490
+2012,june ,good,490
+2012,june ,good,490
+2012,june ,good,390
+2012,june ,good,390
+2012,june ,good,390
+2012,july ,good,190
+2012,july ,good,190
+2012,july ,good,190
+2012,july ,good,190
+2012,july ,good,190
+2012,july ,good,90
+2012,august ,good,990
+2012,august ,good,990
+2012,august ,good,890
+2012,august ,good,890
+2012,august ,good,790
+2012,august ,good,790
+2012,september,good,390
+2012,september,good,390
+2012,september,good,390
+2012,september,good,390
+2012,september,good,290
+2012,september,good,290
+2012,october ,good,190
+2012,october ,good,190
+2012,october ,good,190
+2012,october ,good,190
+2012,october ,good,190
+2012,october ,good,90
+2012,november,good,390
+2012,november,good,390
+2012,november,good,390
+2012,november,good,390
+2012,november,good,290
+2012,november,good,290
+2012,december,good,190
+2012,december,good,190
+2012,december,good,190
+2012,december,good,90
+2012,december,good,90
+2012,december,good,90
+2012,january,bad,190
+2012,january,bad,190
+2012,january,bad,190
+2012,january,bad,190
+2012,january,bad,290
+2012,january,bad,290
+2012,february,bad,390
+2012,february,bad,390
+2012,february,bad,390
+2012,february,bad,390
+2012,february,bad,490
+2012,february,bad,490
+2012,march,bad,790
+2012,march,bad,790
+2012,march,bad,790
+2012,march,bad,890
+2012,march,bad,890
+2012,march,bad,890
+2012,april ,bad,6190
+2012,april ,bad,5790
+2012,april ,bad,6190
+2012,april ,bad,6190
+2012,april ,bad,6390
+2012,april ,bad,6590
+2012,may,bad,1990
+2012,may,bad,1990
+2012,may,bad,2190
+2012,may,bad,2190
+2012,may,bad,1790
+2012,may,bad,1990
+2012,june ,bad,990
+2012,june ,bad,1190
+2012,june ,bad,990
+2012,june ,bad,1190
+2012,june ,bad,1390
+2012,june ,bad,1190
+2012,july ,bad,390
+2012,july ,bad,390
+2012,july ,bad,490
+2012,july ,bad,490
+2012,july ,bad,390
+2012,july ,bad,490
+2012,august ,bad,1990
+2012,august ,bad,1990
+2012,august ,bad,2190
+2012,august ,bad,1790
+2012,august ,bad,2190
+2012,august ,bad,1790
+2012,september,bad,790
+2012,september,bad,790
+2012,september,bad,890
+2012,september,bad,990
+2012,september,bad,890
+2012,september,bad,990
+2012,october ,bad,390
+2012,october ,bad,390
+2012,october ,bad,390
+2012,october ,bad,390
+2012,october ,bad,390
+2012,october ,bad,490
+2012,november,bad,790
+2012,november,bad,790
+2012,november,bad,790
+2012,november,bad,790
+2012,november,bad,790
+2012,november,bad,790
+2012,december,bad,390
+2012,december,bad,390
+2012,december,bad,390
+2012,december,bad,490
+2012,december,bad,490
+2012,december,bad,490
+2012,january,good,90
+2012,february,good,190
+2012,march,good,390
+2012,april ,good,2990
+2012,may,good,990
+2012,june ,good,490
+2012,july ,good,190
+2012,august ,good,990
+2012,september,good,390
+2012,october ,good,190
+2012,november,good,390
+2012,december,good,190
+2012,january,bad,190
+2012,february,bad,390
+2012,march,bad,790
+2012,april ,bad,5990
+2012,may,bad,1990
+2012,june ,bad,990
+2012,july ,bad,390
+2012,august ,bad,1990
+2012,september,bad,790
+2012,october ,bad,390
+2012,november,bad,790
+2012,december,bad,390
+2012,january,good,190
+2012,january,bad,290
+2012,january,good,90
+2012,february,good,90
+2012,february,bad,390
+2012,february,good,190
+2012,february,bad,490
+2012,january,bad,190
+2012,march,good,290
+2012,march,good,290
+2012,march,bad,790
+2012,march,bad,890
+2012,april ,bad,6190
+2012,april ,bad,6390
+2012,april ,good,2790
+2012,april ,good,2590
+2012,may,bad,2190
+2012,may,bad,2390
+2012,may,good,790
+2012,may,good,590
+2012,june ,bad,990
+2012,june ,bad,990
+2012,june ,good,540
+2012,june ,good,590
+2012,july ,bad,390
+2012,july ,bad,490
+2012,july ,good,290
+2012,july ,good,190
+2012,august ,bad,1990
+2012,august ,bad,2190
+2012,august ,good,1190
+2012,august ,good,890
+2012,september,good,290
+2012,september,good,390
+2012,september,bad,890
+2012,september,bad,990
+2012,october ,good,90
+2012,october ,good,190
+2012,october ,bad,390
+2012,october ,bad,490
+2012,november,bad,890
+2012,november,bad,990
+2012,november,good,290
+2012,november,good,390
+2012,december,bad,390
+2012,december,bad,490
+2012,december,good,90
+2012,december,good,190
+2012,january,good,90
+2012,january,good,90
+2012,january,bad,390
+2012,january,bad,390
+2012,february,bad,590
+2012,february,bad,690
+2012,february,good,90
+2012,february,good,90
+2012,march,good,190
+2012,march,good,90
+2012,march,bad,990
+2012,march,bad,990
+2012,april ,bad,6390
+2012,april ,bad,6990
+2012,april ,good,1990
+2012,april ,good,990
+2012,may,bad,2990
+2012,may,bad,2790
+2012,may,good,790
+2012,may,good,890
+2012,june ,bad,1390
+2012,june ,bad,1590
+2012,june ,good,290
+2012,june ,good,190
+2012,july ,bad,790
+2012,july ,bad,990
+2012,july ,good,90
+2012,july ,good,90
+2012,august ,bad,2390
+2012,august ,bad,2990
+2012,august ,good,490
+2012,august ,good,290
+2012,september,good,190
+2012,september,good,190
+2012,september,bad,990
+2012,september,bad,1190
+2012,october ,good,190
+2012,october ,good,90
+2012,october ,bad,790
+2012,october ,bad,690
+2012,november,bad,990
+2012,november,bad,1590
+2012,november,good,190
+2012,november,good,190
+2012,december,bad,590
+2012,december,bad,790
+2012,december,good,90
+2012,december,good,90
+2012,january,good,90
+2012,february,bad,490
+2012,march,good,390
+2012,april ,bad,5590
+2012,may,good,890
+2012,june ,bad,990
+2012,july ,good,190
+2012,august ,bad,1990
+2012,september,good,390
+2012,october ,bad,390
+2012,november,good,290
+2012,december,bad,390
+2012,january,good,90
+2012,january,good,90
+2012,january,good,90
+2012,january,good,190
+2012,january,good,190
+2012,january,good,190
+2012,february,good,190
+2012,february,good,190
+2012,february,good,190
+2012,february,good,290
+2012,february,good,290
+2012,february,good,290
+2012,march,good,390
+2012,march,good,390
+2012,march,good,390
+2012,march,good,390
+2012,march,good,490
+2012,march,good,490
+2012,april ,good,2990
+2012,april ,good,3190
+2012,april ,good,2990
+2012,april ,good,3390
+2012,april ,good,2990
+2012,april ,good,2790
+2012,may,good,990
+2012,may,good,990
+2012,may,good,990
+2012,may,good,790
+2012,may,good,890
+2012,may,good,790
+2012,june ,good,490
+2012,june ,good,490
+2012,june ,good,490
+2012,june ,good,390
+2012,june ,good,390
+2012,june ,good,390
+2012,july ,good,190
+2012,july ,good,190
+2012,july ,good,190
+2012,july ,good,190
+2012,july ,good,190
+2012,july ,good,90
+2012,august ,good,990
+2012,august ,good,990
+2012,august ,good,890
+2012,august ,good,890
+2012,august ,good,790
+2012,august ,good,790
+2012,september,good,390
+2012,september,good,390
+2012,september,good,390
+2012,september,good,390
+2012,september,good,290
+2012,september,good,290
+2012,october ,good,190
+2012,october ,good,190
+2012,october ,good,190
+2012,october ,good,190
+2012,october ,good,190
+2012,october ,good,90
+2012,november,good,390
+2012,november,good,390
+2012,november,good,390
+2012,november,good,390
+2012,november,good,290
+2012,november,good,290
+2012,december,good,190
+2012,december,good,190
+2012,december,good,190
+2012,december,good,90
+2012,december,good,90
+2012,december,good,90
+2012,january,bad,190
+2012,january,bad,190
+2012,january,bad,190
+2012,january,bad,190
+2012,january,bad,290
+2012,january,bad,290
+2012,february,bad,390
+2012,february,bad,390
+2012,february,bad,390
+2012,february,bad,390
+2012,february,bad,490
+2012,february,bad,490
+2012,march,bad,790
+2012,march,bad,790
+2012,march,bad,790
+2012,march,bad,890
+2012,march,bad,890
+2012,march,bad,890
+2012,april ,bad,6190
+2012,april ,bad,5790
+2012,april ,bad,6190
+2012,april ,bad,6290
+2012,april ,bad,6290
+2012,april ,bad,6580
+2012,may,bad,1990
+2012,may,bad,2090
+2012,may,bad,2190
+2012,may,bad,2210
+2012,may,bad,1890
+2012,may,bad,1990
+2012,june ,bad,990
+2012,june ,bad,1190
+2012,june ,bad,990
+2012,june ,bad,1190
+2012,june ,bad,990
+2012,june ,bad,1190
+2012,july ,bad,390
+2012,july ,bad,390
+2012,july ,bad,490
+2012,july ,bad,490
+2012,july ,bad,390
+2012,july ,bad,490
+2012,august ,bad,1990
+2012,august ,bad,1990
+2012,august ,bad,2190
+2012,august ,bad,1890
+2012,august ,bad,2090
+2012,august ,bad,1790
+2012,september,bad,790
+2012,september,bad,790
+2012,september,bad,890
+2012,september,bad,990
+2012,september,bad,890
+2012,september,bad,990
+2012,october ,bad,390
+2012,october ,bad,390
+2012,october ,bad,390
+2012,october ,bad,390
+2012,october ,bad,390
+2012,october ,bad,490
+2012,november,bad,790
+2012,november,bad,790
+2012,november,bad,790
+2012,november,bad,790
+2012,november,bad,790
+2012,november,bad,790
+2012,december,bad,390
+2012,december,bad,390
+2012,december,bad,390
+2012,december,bad,490
+2012,december,bad,490
+2012,december,bad,490
+2012,january,bad,190
+2012,february,bad,390
+2012,march,bad,790
+2012,april ,bad,5990
+2012,may,bad,1990
+2012,june ,bad,990
+2012,july ,bad,390
+2012,august ,bad,1990
+2012,september,bad,790
+2012,october ,bad,390
+2012,november,bad,790
+2012,december,bad,390
+2012,january,good,90
+2012,april ,bad,6990
+2012,april ,bad,6990
+2012,december,bad,540
+2012,april ,bad,5790
+2012,april ,bad,6190
+2012,april ,bad,6290
+2012,april ,bad,6580
+2012,april ,bad,6590
+2012,april ,bad,6590
+2012,august ,good,1590
+2012,june ,bad,2210
+2012,april ,bad,6590
+2013,january,good,80
+2013,february,good,180
+2013,march,good,380
+2013,april ,good,2980
+2013,may,good,980
+2013,june ,good,480
+2013,july ,good,180
+2013,august ,good,980
+2013,september,good,380
+2013,october ,good,180
+2013,november,good,380
+2013,december,good,180
+2013,january,bad,180
+2013,february,bad,380
+2013,march,bad,780
+2013,april ,bad,5980
+2013,may,bad,1980
+2013,june ,bad,980
+2013,july ,bad,380
+2013,august ,bad,1980
+2013,september,bad,780
+2013,october ,bad,380
+2013,november,bad,780
+2013,december,bad,380
+2013,january,good,180
+2013,january,bad,280
+2013,january,good,80
+2013,february,good,180
+2013,february,bad,380
+2013,february,good,180
+2013,february,bad,480
+2013,january,bad,180
+2013,march,good,280
+2013,march,good,280
+2013,march,bad,780
+2013,march,bad,880
+2013,april ,bad,6180
+2013,april ,bad,6380
+2013,april ,good,2780
+2013,april ,good,2580
+2013,may,bad,2180
+2013,may,bad,2380
+2013,may,good,780
+2013,may,good,580
+2013,june ,bad,980
+2013,june ,bad,980
+2013,june ,good,480
+2013,june ,good,580
+2013,july ,bad,380
+2013,july ,bad,480
+2013,july ,good,280
+2013,july ,good,180
+2013,august ,bad,2180
+2013,august ,bad,2180
+2013,august ,good,980
+2013,august ,good,880
+2013,september,good,280
+2013,september,good,380
+2013,september,bad,880
+2013,september,bad,980
+2013,october ,good,80
+2013,october ,good,180
+2013,october ,bad,380
+2013,october ,bad,480
+2013,november,bad,880
+2013,november,bad,980
+2013,november,good,280
+2013,november,good,380
+2013,december,bad,380
+2013,december,bad,480
+2013,december,good,80
+2013,december,good,180
+2013,january,good,80
+2013,january,good,80
+2013,january,bad,380
+2013,january,bad,380
+2013,february,bad,580
+2013,february,bad,680
+2013,february,good,80
+2013,february,good,80
+2013,march,good,180
+2013,march,good,80
+2013,march,bad,980
+2013,march,bad,980
+2013,april ,bad,6380
+2013,april ,bad,6380
+2013,april ,good,1980
+2013,april ,good,980
+2013,may,bad,2980
+2013,may,bad,2780
+2013,may,good,780
+2013,may,good,880
+2013,june ,bad,980
+2013,june ,bad,1580
+2013,june ,good,280
+2013,june ,good,180
+2013,july ,bad,780
+2013,july ,bad,980
+2013,july ,good,80
+2013,july ,good,80
+2013,august ,bad,2580
+2013,august ,bad,2980
+2013,august ,good,480
+2013,august ,good,280
+2013,september,good,180
+2013,september,good,180
+2013,september,bad,980
+2013,september,bad,980
+2013,october ,good,180
+2013,october ,good,80
+2013,october ,bad,780
+2013,october ,bad,680
+2013,november,bad,980
+2013,november,bad,1580
+2013,november,good,180
+2013,november,good,80
+2013,december,bad,580
+2013,december,bad,780
+2013,december,good,180
+2013,december,good,80
+2013,january,good,80
+2013,february,bad,480
+2013,march,good,380
+2013,april ,bad,5580
+2013,may,good,880
+2013,june ,bad,980
+2013,july ,good,180
+2013,august ,bad,2180
+2013,september,good,380
+2013,october ,bad,380
+2013,november,good,280
+2013,december,bad,380
+2013,january,good,80
+2013,january,good,80
+2013,january,good,80
+2013,january,good,180
+2013,january,good,180
+2013,january,good,180
+2013,february,good,180
+2013,february,good,180
+2013,february,good,180
+2013,february,good,280
+2013,february,good,280
+2013,february,good,280
+2013,march,good,380
+2013,march,good,380
+2013,march,good,380
+2013,march,good,380
+2013,march,good,480
+2013,march,good,480
+2013,april ,good,2980
+2013,april ,good,3180
+2013,april ,good,2980
+2013,april ,good,3380
+2013,april ,good,2780
+2013,april ,good,2780
+2013,may,good,980
+2013,may,good,980
+2013,may,good,980
+2013,may,good,780
+2013,may,good,880
+2013,may,good,780
+2013,june ,good,480
+2013,june ,good,480
+2013,june ,good,480
+2013,june ,good,380
+2013,june ,good,380
+2013,june ,good,380
+2013,july ,good,180
+2013,july ,good,180
+2013,july ,good,180
+2013,july ,good,180
+2013,july ,good,180
+2013,july ,good,80
+2013,august ,good,980
+2013,august ,good,980
+2013,august ,good,880
+2013,august ,good,880
+2013,august ,good,780
+2013,august ,good,780
+2013,september,good,380
+2013,september,good,380
+2013,september,good,380
+2013,september,good,380
+2013,september,good,280
+2013,september,good,280
+2013,october ,good,180
+2013,october ,good,180
+2013,october ,good,180
+2013,october ,good,180
+2013,october ,good,180
+2013,october ,good,80
+2013,november,good,380
+2013,november,good,380
+2013,november,good,380
+2013,november,good,380
+2013,november,good,280
+2013,november,good,280
+2013,december,good,180
+2013,december,good,180
+2013,december,good,180
+2013,december,good,80
+2013,december,good,80
+2013,december,good,80
+2013,january,bad,180
+2013,january,bad,180
+2013,january,bad,180
+2013,january,bad,180
+2013,january,bad,280
+2013,january,bad,280
+2013,february,bad,380
+2013,february,bad,380
+2013,february,bad,380
+2013,february,bad,380
+2013,february,bad,480
+2013,february,bad,480
+2013,march,bad,780
+2013,march,bad,780
+2013,march,bad,780
+2013,march,bad,880
+2013,march,bad,880
+2013,march,bad,880
+2013,april ,bad,6180
+2013,april ,bad,5850
+2013,april ,bad,6180
+2013,april ,bad,6180
+2013,april ,bad,6380
+2013,april ,bad,6580
+2013,may,bad,1980
+2013,may,bad,1980
+2013,may,bad,2180
+2013,may,bad,2180
+2013,may,bad,1780
+2013,may,bad,1980
+2013,june ,bad,980
+2013,june ,bad,1180
+2013,june ,bad,980
+2013,june ,bad,1180
+2013,june ,bad,1200
+2013,june ,bad,1180
+2013,july ,bad,380
+2013,july ,bad,380
+2013,july ,bad,480
+2013,july ,bad,480
+2013,july ,bad,380
+2013,july ,bad,480
+2013,august ,bad,1980
+2013,august ,bad,1980
+2013,august ,bad,2180
+2013,august ,bad,1780
+2013,august ,bad,2180
+2013,august ,bad,1780
+2013,september,bad,780
+2013,september,bad,780
+2013,september,bad,880
+2013,september,bad,980
+2013,september,bad,880
+2013,september,bad,980
+2013,october ,bad,380
+2013,october ,bad,380
+2013,october ,bad,380
+2013,october ,bad,380
+2013,october ,bad,380
+2013,october ,bad,480
+2013,november,bad,780
+2013,november,bad,780
+2013,november,bad,780
+2013,november,bad,780
+2013,november,bad,780
+2013,november,bad,780
+2013,december,bad,380
+2013,december,bad,380
+2013,december,bad,380
+2013,december,bad,480
+2013,december,bad,480
+2013,december,bad,480
+2013,january,good,80
+2013,february,good,180
+2013,march,good,380
+2013,april ,good,2980
+2013,may,good,980
+2013,june ,good,480
+2013,july ,good,180
+2013,august ,good,980
+2013,september,good,380
+2013,october ,good,180
+2013,november,good,380
+2013,december,good,180
+2013,january,bad,180
+2013,february,bad,380
+2013,march,bad,780
+2013,april ,bad,5980
+2013,may,bad,1980
+2013,june ,bad,980
+2013,july ,bad,380
+2013,august ,bad,1980
+2013,september,bad,780
+2013,october ,bad,380
+2013,november,bad,780
+2013,december,bad,380
+2013,january,good,180
+2013,january,bad,280
+2013,january,good,80
+2013,february,good,80
+2013,february,bad,380
+2013,february,good,180
+2013,february,bad,480
+2013,january,bad,180
+2013,march,good,280
+2013,march,good,280
+2013,march,bad,780
+2013,march,bad,880
+2013,april ,bad,6180
+2013,april ,bad,6380
+2013,april ,good,2780
+2013,april ,good,2580
+2013,may,bad,2180
+2013,may,bad,2380
+2013,may,good,780
+2013,may,good,580
+2013,june ,bad,980
+2013,june ,bad,980
+2013,june ,good,530
+2013,june ,good,580
+2013,july ,bad,380
+2013,july ,bad,480
+2013,july ,good,280
+2013,july ,good,180
+2013,august ,bad,1980
+2013,august ,bad,2180
+2013,august ,good,1180
+2013,august ,good,880
+2013,september,good,280
+2013,september,good,380
+2013,september,bad,880
+2013,september,bad,980
+2013,october ,good,80
+2013,october ,good,180
+2013,october ,bad,380
+2013,october ,bad,480
+2013,november,bad,880
+2013,november,bad,980
+2013,november,good,280
+2013,november,good,380
+2013,december,bad,380
+2013,december,bad,480
+2013,december,good,80
+2013,december,good,180
+2013,january,good,80
+2013,january,good,80
+2013,january,bad,380
+2013,january,bad,380
+2013,february,bad,580
+2013,february,bad,680
+2013,february,good,80
+2013,february,good,80
+2013,march,good,180
+2013,march,good,80
+2013,march,bad,980
+2013,march,bad,980
+2013,april ,bad,6380
+2013,april ,bad,6980
+2013,april ,good,1980
+2013,april ,good,980
+2013,may,bad,2980
+2013,may,bad,2780
+2013,may,good,780
+2013,may,good,880
+2013,june ,bad,1200
+2013,june ,bad,1580
+2013,june ,good,280
+2013,june ,good,180
+2013,july ,bad,780
+2013,july ,bad,980
+2013,july ,good,80
+2013,july ,good,80
+2013,august ,bad,2380
+2013,august ,bad,2980
+2013,august ,good,480
+2013,august ,good,280
+2013,september,good,180
+2013,september,good,180
+2013,september,bad,980
+2013,september,bad,1180
+2013,october ,good,180
+2013,october ,good,80
+2013,october ,bad,780
+2013,october ,bad,680
+2013,november,bad,980
+2013,november,bad,1580
+2013,november,good,180
+2013,november,good,180
+2013,december,bad,580
+2013,december,bad,780
+2013,december,good,80
+2013,december,good,80
+2013,january,good,80
+2013,february,bad,480
+2013,march,good,380
+2013,april ,bad,5580
+2013,may,good,880
+2013,june ,bad,980
+2013,july ,good,180
+2013,august ,bad,1980
+2013,september,good,380
+2013,october ,bad,380
+2013,november,good,280
+2013,december,bad,380
+2013,january,good,80
+2013,january,good,80
+2013,january,good,80
+2013,january,good,180
+2013,january,good,180
+2013,january,good,180
+2013,february,good,180
+2013,february,good,180
+2013,february,good,180
+2013,february,good,280
+2013,february,good,280
+2013,february,good,280
+2013,march,good,380
+2013,march,good,380
+2013,march,good,380
+2013,march,good,380
+2013,march,good,480
+2013,march,good,480
+2013,april ,good,2980
+2013,april ,good,3180
+2013,april ,good,2980
+2013,april ,good,3380
+2013,april ,good,2980
+2013,april ,good,2780
+2013,may,good,980
+2013,may,good,980
+2013,may,good,980
+2013,may,good,780
+2013,may,good,880
+2013,may,good,780
+2013,june ,good,480
+2013,june ,good,480
+2013,june ,good,480
+2013,june ,good,380
+2013,june ,good,380
+2013,june ,good,380
+2013,july ,good,180
+2013,july ,good,180
+2013,july ,good,180
+2013,july ,good,180
+2013,july ,good,180
+2013,july ,good,80
+2013,august ,good,980
+2013,august ,good,980
+2013,august ,good,880
+2013,august ,good,880
+2013,august ,good,780
+2013,august ,good,780
+2013,september,good,380
+2013,september,good,380
+2013,september,good,380
+2013,september,good,380
+2013,september,good,280
+2013,september,good,280
+2013,october ,good,180
+2013,october ,good,180
+2013,october ,good,180
+2013,october ,good,180
+2013,october ,good,180
+2013,october ,good,80
+2013,november,good,380
+2013,november,good,380
+2013,november,good,380
+2013,november,good,380
+2013,november,good,280
+2013,november,good,280
+2013,december,good,180
+2013,december,good,180
+2013,december,good,180
+2013,december,good,80
+2013,december,good,80
+2013,december,good,80
+2013,january,bad,180
+2013,january,bad,180
+2013,january,bad,180
+2013,january,bad,180
+2013,january,bad,280
+2013,january,bad,280
+2013,february,bad,380
+2013,february,bad,380
+2013,february,bad,380
+2013,february,bad,380
+2013,february,bad,480
+2013,february,bad,480
+2013,march,bad,780
+2013,march,bad,780
+2013,march,bad,780
+2013,march,bad,880
+2013,march,bad,880
+2013,march,bad,880
+2013,april ,bad,6180
+2013,april ,bad,5850
+2013,april ,bad,6180
+2013,april ,bad,6280
+2013,april ,bad,6280
+2013,april ,bad,6350
+2013,may,bad,1980
+2013,may,bad,2210
+2013,may,bad,2180
+2013,may,bad,2280
+2013,may,bad,1880
+2013,may,bad,1980
+2013,june ,bad,980
+2013,june ,bad,1180
+2013,june ,bad,980
+2013,june ,bad,1180
+2013,june ,bad,980
+2013,june ,bad,1180
+2013,july ,bad,380
+2013,july ,bad,380
+2013,july ,bad,480
+2013,july ,bad,480
+2013,july ,bad,380
+2013,july ,bad,480
+2013,august ,bad,1980
+2013,august ,bad,1980
+2013,august ,bad,2180
+2013,august ,bad,1880
+2013,august ,bad,2210
+2013,august ,bad,1780
+2013,september,bad,780
+2013,september,bad,780
+2013,september,bad,880
+2013,september,bad,980
+2013,september,bad,880
+2013,september,bad,980
+2013,october ,bad,380
+2013,october ,bad,380
+2013,october ,bad,380
+2013,october ,bad,380
+2013,october ,bad,380
+2013,october ,bad,480
+2013,november,bad,780
+2013,november,bad,780
+2013,november,bad,780
+2013,november,bad,780
+2013,november,bad,780
+2013,november,bad,780
+2013,december,bad,380
+2013,december,bad,380
+2013,december,bad,380
+2013,december,bad,480
+2013,december,bad,480
+2013,december,bad,480
+2013,january,bad,180
+2013,february,bad,380
+2013,march,bad,780
+2013,april ,bad,5980
+2013,may,bad,1980
+2013,june ,bad,980
+2013,july ,bad,380
+2013,august ,bad,1980
+2013,september,bad,780
+2013,october ,bad,380
+2013,november,bad,780
+2013,december,bad,380
+2013,january,good,80
+2013,april ,bad,6980
+2013,april ,bad,6980
+2013,december,bad,530
+2013,april ,bad,5850
+2013,april ,bad,6180
+2013,april ,bad,6280
+2013,april ,bad,6350
+2013,april ,bad,6580
+2013,april ,bad,6580
+2013,august ,good,1580
+2013,june ,bad,2280
+2013,april ,bad,6580
+2014,january,good,120
+2014,february,good,220
+2014,march,good,420
+2014,april ,good,3020
+2014,may,good,1020
+2014,june ,good,520
+2014,july ,good,220
+2014,august ,good,1020
+2014,september,good,420
+2014,october ,good,220
+2014,november,good,420
+2014,december,good,220
+2014,january,bad,220
+2014,february,bad,420
+2014,march,bad,820
+2014,april ,bad,6020
+2014,may,bad,2020
+2014,june ,bad,1020
+2014,july ,bad,420
+2014,august ,bad,2020
+2014,september,bad,820
+2014,october ,bad,420
+2014,november,bad,820
+2014,december,bad,420
+2014,january,good,220
+2014,january,bad,320
+2014,january,good,120
+2014,february,good,220
+2014,february,bad,420
+2014,february,good,220
+2014,february,bad,520
+2014,january,bad,220
+2014,march,good,320
+2014,march,good,320
+2014,march,bad,820
+2014,march,bad,920
+2014,april ,bad,6220
+2014,april ,bad,6420
+2014,april ,good,2820
+2014,april ,good,2620
+2014,may,bad,2220
+2014,may,bad,2420
+2014,may,good,820
+2014,may,good,620
+2014,june ,bad,1020
+2014,june ,bad,1020
+2014,june ,good,520
+2014,june ,good,620
+2014,july ,bad,420
+2014,july ,bad,520
+2014,july ,good,320
+2014,july ,good,220
+2014,august ,bad,2220
+2014,august ,bad,2220
+2014,august ,good,1020
+2014,august ,good,920
+2014,september,good,320
+2014,september,good,420
+2014,september,bad,920
+2014,september,bad,1020
+2014,october ,good,120
+2014,october ,good,220
+2014,october ,bad,420
+2014,october ,bad,520
+2014,november,bad,920
+2014,november,bad,1020
+2014,november,good,320
+2014,november,good,420
+2014,december,bad,420
+2014,december,bad,520
+2014,december,good,120
+2014,december,good,220
+2014,january,good,120
+2014,january,good,120
+2014,january,bad,420
+2014,january,bad,420
+2014,february,bad,620
+2014,february,bad,720
+2014,february,good,120
+2014,february,good,120
+2014,march,good,220
+2014,march,good,120
+2014,march,bad,1020
+2014,march,bad,1020
+2014,april ,bad,6420
+2014,april ,bad,6420
+2014,april ,good,2020
+2014,april ,good,1020
+2014,may,bad,3020
+2014,may,bad,2820
+2014,may,good,820
+2014,may,good,920
+2014,june ,bad,1020
+2014,june ,bad,1620
+2014,june ,good,320
+2014,june ,good,220
+2014,july ,bad,820
+2014,july ,bad,1020
+2014,july ,good,120
+2014,july ,good,120
+2014,august ,bad,2620
+2014,august ,bad,3020
+2014,august ,good,520
+2014,august ,good,320
+2014,september,good,220
+2014,september,good,220
+2014,september,bad,1020
+2014,september,bad,1020
+2014,october ,good,220
+2014,october ,good,120
+2014,october ,bad,820
+2014,october ,bad,720
+2014,november,bad,1020
+2014,november,bad,1620
+2014,november,good,220
+2014,november,good,120
+2014,december,bad,620
+2014,december,bad,820
+2014,december,good,220
+2014,december,good,120
+2014,january,good,120
+2014,february,bad,520
+2014,march,good,420
+2014,april ,bad,5620
+2014,may,good,920
+2014,june ,bad,1020
+2014,july ,good,220
+2014,august ,bad,2220
+2014,september,good,420
+2014,october ,bad,420
+2014,november,good,320
+2014,december,bad,420
+2014,january,good,120
+2014,january,good,120
+2014,january,good,120
+2014,january,good,220
+2014,january,good,220
+2014,january,good,220
+2014,february,good,220
+2014,february,good,220
+2014,february,good,220
+2014,february,good,320
+2014,february,good,320
+2014,february,good,320
+2014,march,good,420
+2014,march,good,420
+2014,march,good,420
+2014,march,good,420
+2014,march,good,520
+2014,march,good,520
+2014,april ,good,3020
+2014,april ,good,3220
+2014,april ,good,3020
+2014,april ,good,3420
+2014,april ,good,2820
+2014,april ,good,2820
+2014,may,good,1020
+2014,may,good,1020
+2014,may,good,1020
+2014,may,good,820
+2014,may,good,920
+2014,may,good,820
+2014,june ,good,520
+2014,june ,good,520
+2014,june ,good,520
+2014,june ,good,420
+2014,june ,good,420
+2014,june ,good,420
+2014,july ,good,220
+2014,july ,good,220
+2014,july ,good,220
+2014,july ,good,220
+2014,july ,good,220
+2014,july ,good,120
+2014,august ,good,1020
+2014,august ,good,1020
+2014,august ,good,920
+2014,august ,good,920
+2014,august ,good,820
+2014,august ,good,820
+2014,september,good,420
+2014,september,good,420
+2014,september,good,420
+2014,september,good,420
+2014,september,good,320
+2014,september,good,320
+2014,october ,good,220
+2014,october ,good,220
+2014,october ,good,220
+2014,october ,good,220
+2014,october ,good,220
+2014,october ,good,120
+2014,november,good,420
+2014,november,good,420
+2014,november,good,420
+2014,november,good,420
+2014,november,good,320
+2014,november,good,320
+2014,december,good,220
+2014,december,good,220
+2014,december,good,220
+2014,december,good,120
+2014,december,good,120
+2014,december,good,120
+2014,january,bad,220
+2014,january,bad,220
+2014,january,bad,220
+2014,january,bad,220
+2014,january,bad,320
+2014,january,bad,320
+2014,february,bad,420
+2014,february,bad,420
+2014,february,bad,420
+2014,february,bad,420
+2014,february,bad,520
+2014,february,bad,520
+2014,march,bad,820
+2014,march,bad,820
+2014,march,bad,820
+2014,march,bad,920
+2014,march,bad,920
+2014,march,bad,920
+2014,april ,bad,6220
+2014,april ,bad,5820
+2014,april ,bad,6220
+2014,april ,bad,6220
+2014,april ,bad,6420
+2014,april ,bad,6620
+2014,may,bad,2020
+2014,may,bad,2020
+2014,may,bad,2220
+2014,may,bad,2220
+2014,may,bad,1820
+2014,may,bad,2020
+2014,june ,bad,1020
+2014,june ,bad,1220
+2014,june ,bad,1020
+2014,june ,bad,1220
+2014,june ,bad,1420
+2014,june ,bad,1220
+2014,july ,bad,420
+2014,july ,bad,420
+2014,july ,bad,520
+2014,july ,bad,520
+2014,july ,bad,420
+2014,july ,bad,520
+2014,august ,bad,2020
+2014,august ,bad,2020
+2014,august ,bad,2220
+2014,august ,bad,1820
+2014,august ,bad,2220
+2014,august ,bad,1820
+2014,september,bad,820
+2014,september,bad,820
+2014,september,bad,920
+2014,september,bad,1020
+2014,september,bad,920
+2014,september,bad,1020
+2014,october ,bad,420
+2014,october ,bad,420
+2014,october ,bad,420
+2014,october ,bad,420
+2014,october ,bad,420
+2014,october ,bad,520
+2014,november,bad,820
+2014,november,bad,820
+2014,november,bad,820
+2014,november,bad,820
+2014,november,bad,820
+2014,november,bad,820
+2014,december,bad,420
+2014,december,bad,420
+2014,december,bad,420
+2014,december,bad,520
+2014,december,bad,520
+2014,december,bad,520
+2014,january,good,120
+2014,february,good,220
+2014,march,good,420
+2014,april ,good,3020
+2014,may,good,1020
+2014,june ,good,520
+2014,july ,good,220
+2014,august ,good,1020
+2014,september,good,420
+2014,october ,good,220
+2014,november,good,420
+2014,december,good,220
+2014,january,bad,220
+2014,february,bad,420
+2014,march,bad,820
+2014,april ,bad,6020
+2014,may,bad,2020
+2014,june ,bad,1020
+2014,july ,bad,420
+2014,august ,bad,2020
+2014,september,bad,820
+2014,october ,bad,420
+2014,november,bad,820
+2014,december,bad,420
+2014,january,good,220
+2014,january,bad,320
+2014,january,good,120
+2014,february,good,120
+2014,february,bad,420
+2014,february,good,220
+2014,february,bad,520
+2014,january,bad,220
+2014,march,good,320
+2014,march,good,320
+2014,march,bad,820
+2014,march,bad,920
+2014,april ,bad,6220
+2014,april ,bad,6420
+2014,april ,good,2820
+2014,april ,good,2620
+2014,may,bad,2220
+2014,may,bad,2420
+2014,may,good,820
+2014,may,good,620
+2014,june ,bad,1020
+2014,june ,bad,1020
+2014,june ,good,570
+2014,june ,good,620
+2014,july ,bad,420
+2014,july ,bad,520
+2014,july ,good,320
+2014,july ,good,220
+2014,august ,bad,2020
+2014,august ,bad,2220
+2014,august ,good,1220
+2014,august ,good,920
+2014,september,good,320
+2014,september,good,420
+2014,september,bad,920
+2014,september,bad,1020
+2014,october ,good,120
+2014,october ,good,220
+2014,october ,bad,420
+2014,october ,bad,520
+2014,november,bad,920
+2014,november,bad,1020
+2014,november,good,320
+2014,november,good,420
+2014,december,bad,420
+2014,december,bad,520
+2014,december,good,120
+2014,december,good,220
+2014,january,good,120
+2014,january,good,120
+2014,january,bad,420
+2014,january,bad,420
+2014,february,bad,620
+2014,february,bad,720
+2014,february,good,120
+2014,february,good,120
+2014,march,good,220
+2014,march,good,120
+2014,march,bad,1020
+2014,march,bad,1020
+2014,april ,bad,6420
+2014,april ,bad,7020
+2014,april ,good,2020
+2014,april ,good,1020
+2014,may,bad,3020
+2014,may,bad,2820
+2014,may,good,820
+2014,may,good,920
+2014,june ,bad,1420
+2014,june ,bad,1620
+2014,june ,good,320
+2014,june ,good,220
+2014,july ,bad,820
+2014,july ,bad,1020
+2014,july ,good,120
+2014,july ,good,120
+2014,august ,bad,2420
+2014,august ,bad,3020
+2014,august ,good,520
+2014,august ,good,320
+2014,september,good,220
+2014,september,good,220
+2014,september,bad,1020
+2014,september,bad,1220
+2014,october ,good,220
+2014,october ,good,120
+2014,october ,bad,820
+2014,october ,bad,720
+2014,november,bad,1020
+2014,november,bad,1620
+2014,november,good,220
+2014,november,good,220
+2014,december,bad,620
+2014,december,bad,820
+2014,december,good,120
+2014,december,good,120
+2014,january,good,120
+2014,february,bad,520
+2014,march,good,420
+2014,april ,bad,5620
+2014,may,good,920
+2014,june ,bad,1020
+2014,july ,good,220
+2014,august ,bad,2020
+2014,september,good,420
+2014,october ,bad,420
+2014,november,good,320
+2014,december,bad,420
+2014,january,good,120
+2014,january,good,120
+2014,january,good,120
+2014,january,good,220
+2014,january,good,220
+2014,january,good,220
+2014,february,good,220
+2014,february,good,220
+2014,february,good,220
+2014,february,good,320
+2014,february,good,320
+2014,february,good,320
+2014,march,good,420
+2014,march,good,420
+2014,march,good,420
+2014,march,good,420
+2014,march,good,520
+2014,march,good,520
+2014,april ,good,3020
+2014,april ,good,3220
+2014,april ,good,3020
+2014,april ,good,3420
+2014,april ,good,3020
+2014,april ,good,2820
+2014,may,good,1020
+2014,may,good,1020
+2014,may,good,1020
+2014,may,good,820
+2014,may,good,920
+2014,may,good,820
+2014,june ,good,520
+2014,june ,good,520
+2014,june ,good,520
+2014,june ,good,420
+2014,june ,good,420
+2014,june ,good,420
+2014,july ,good,220
+2014,july ,good,220
+2014,july ,good,220
+2014,july ,good,220
+2014,july ,good,220
+2014,july ,good,120
+2014,august ,good,1020
+2014,august ,good,1020
+2014,august ,good,920
+2014,august ,good,920
+2014,august ,good,820
+2014,august ,good,820
+2014,september,good,420
+2014,september,good,420
+2014,september,good,420
+2014,september,good,420
+2014,september,good,320
+2014,september,good,320
+2014,october ,good,220
+2014,october ,good,220
+2014,october ,good,220
+2014,october ,good,220
+2014,october ,good,220
+2014,october ,good,120
+2014,november,good,420
+2014,november,good,420
+2014,november,good,420
+2014,november,good,420
+2014,november,good,320
+2014,november,good,320
+2014,december,good,220
+2014,december,good,220
+2014,december,good,220
+2014,december,good,120
+2014,december,good,120
+2014,december,good,120
+2014,january,bad,220
+2014,january,bad,220
+2014,january,bad,220
+2014,january,bad,220
+2014,january,bad,320
+2014,january,bad,320
+2014,february,bad,420
+2014,february,bad,420
+2014,february,bad,420
+2014,february,bad,420
+2014,february,bad,520
+2014,february,bad,520
+2014,march,bad,820
+2014,march,bad,820
+2014,march,bad,820
+2014,march,bad,920
+2014,march,bad,920
+2014,march,bad,920
+2014,april ,bad,6220
+2014,april ,bad,5820
+2014,april ,bad,6220
+2014,april ,bad,6320
+2014,april ,bad,6320
+2014,april ,bad,6520
+2014,may,bad,2020
+2014,may,bad,2120
+2014,may,bad,2220
+2014,may,bad,2210
+2014,may,bad,1920
+2014,may,bad,2020
+2014,june ,bad,1020
+2014,june ,bad,1220
+2014,june ,bad,1020
+2014,june ,bad,1220
+2014,june ,bad,1020
+2014,june ,bad,1220
+2014,july ,bad,420
+2014,july ,bad,420
+2014,july ,bad,520
+2014,july ,bad,520
+2014,july ,bad,420
+2014,july ,bad,520
+2014,august ,bad,2020
+2014,august ,bad,2020
+2014,august ,bad,2220
+2014,august ,bad,1920
+2014,august ,bad,2120
+2014,august ,bad,1820
+2014,september,bad,820
+2014,september,bad,820
+2014,september,bad,920
+2014,september,bad,1020
+2014,september,bad,920
+2014,september,bad,1020
+2014,october ,bad,420
+2014,october ,bad,420
+2014,october ,bad,420
+2014,october ,bad,420
+2014,october ,bad,420
+2014,october ,bad,520
+2014,november,bad,820
+2014,november,bad,820
+2014,november,bad,820
+2014,november,bad,820
+2014,november,bad,820
+2014,november,bad,820
+2014,december,bad,420
+2014,december,bad,420
+2014,december,bad,420
+2014,december,bad,520
+2014,december,bad,520
+2014,december,bad,520
+2014,january,bad,220
+2014,february,bad,420
+2014,march,bad,820
+2014,april ,bad,6020
+2014,may,bad,2020
+2014,june ,bad,1020
+2014,july ,bad,420
+2014,august ,bad,2020
+2014,september,bad,820
+2014,october ,bad,420
+2014,november,bad,820
+2014,december,bad,420
+2014,january,good,120
+2014,april ,bad,7020
+2014,april ,bad,7020
+2014,december,bad,570
+2014,april ,bad,5820
+2014,april ,bad,6220
+2014,april ,bad,6320
+2014,april ,bad,6520
+2014,april ,bad,6620
+2014,april ,bad,6620
+2014,august ,good,1620
+2014,june ,bad,2210
+2014,april ,bad,6620
+2015,january,good,150
+2015,february,good,250
+2015,march,good,450
+2015,april ,good,3050
+2015,may,good,1050
+2015,june ,good,550
+2015,july ,good,250
+2015,august ,good,1050
+2015,september,good,450
+2015,october ,good,250
+2015,november,good,450
+2015,december,good,250
+2015,january,bad,250
+2015,february,bad,450
+2015,march,bad,850
+2015,april ,bad,6050
+2015,may,bad,2050
+2015,june ,bad,1050
+2015,july ,bad,450
+2015,august ,bad,2050
+2015,september,bad,850
+2015,october ,bad,450
+2015,november,bad,850
+2015,december,bad,450
+2015,january,good,250
+2015,january,bad,350
+2015,january,good,150
+2015,february,good,250
+2015,february,bad,450
+2015,february,good,250
+2015,february,bad,550
+2015,january,bad,250
+2015,march,good,350
+2015,march,good,350
+2015,march,bad,850
+2015,march,bad,950
+2015,april ,bad,6250
+2015,april ,bad,6450
+2015,april ,good,2850
+2015,april ,good,2650
+2015,may,bad,2250
+2015,may,bad,2450
+2015,may,good,850
+2015,may,good,650
+2015,june ,bad,1050
+2015,june ,bad,1050
+2015,june ,good,550
+2015,june ,good,650
+2015,july ,bad,450
+2015,july ,bad,550
+2015,july ,good,350
+2015,july ,good,250
+2015,august ,bad,2250
+2015,august ,bad,2250
+2015,august ,good,1050
+2015,august ,good,950
+2015,september,good,350
+2015,september,good,450
+2015,september,bad,950
+2015,september,bad,1050
+2015,october ,good,150
+2015,october ,good,250
+2015,october ,bad,450
+2015,october ,bad,550
+2015,november,bad,950
+2015,november,bad,1050
+2015,november,good,350
+2015,november,good,450
+2015,december,bad,450
+2015,december,bad,550
+2015,december,good,150
+2015,december,good,250
+2015,january,good,150
+2015,january,good,150
+2015,january,bad,450
+2015,january,bad,450
+2015,february,bad,650
+2015,february,bad,750
+2015,february,good,150
+2015,february,good,150
+2015,march,good,250
+2015,march,good,150
+2015,march,bad,1050
+2015,march,bad,1050
+2015,april ,bad,6450
+2015,april ,bad,6450
+2015,april ,good,2050
+2015,april ,good,1050
+2015,may,bad,3050
+2015,may,bad,2850
+2015,may,good,850
+2015,may,good,950
+2015,june ,bad,1050
+2015,june ,bad,1650
+2015,june ,good,350
+2015,june ,good,250
+2015,july ,bad,850
+2015,july ,bad,1050
+2015,july ,good,150
+2015,july ,good,150
+2015,august ,bad,2650
+2015,august ,bad,3050
+2015,august ,good,550
+2015,august ,good,350
+2015,september,good,250
+2015,september,good,250
+2015,september,bad,1050
+2015,september,bad,1050
+2015,october ,good,250
+2015,october ,good,150
+2015,october ,bad,850
+2015,october ,bad,750
+2015,november,bad,1050
+2015,november,bad,1650
+2015,november,good,250
+2015,november,good,150
+2015,december,bad,650
+2015,december,bad,850
+2015,december,good,250
+2015,december,good,150
+2015,january,good,150
+2015,february,bad,550
+2015,march,good,450
+2015,april ,bad,5800
+2015,may,good,950
+2015,june ,bad,1050
+2015,july ,good,250
+2015,august ,bad,2250
+2015,september,good,450
+2015,october ,bad,450
+2015,november,good,350
+2015,december,bad,450
+2015,january,good,150
+2015,january,good,150
+2015,january,good,150
+2015,january,good,250
+2015,january,good,250
+2015,january,good,250
+2015,february,good,250
+2015,february,good,250
+2015,february,good,250
+2015,february,good,350
+2015,february,good,350
+2015,february,good,350
+2015,march,good,450
+2015,march,good,450
+2015,march,good,450
+2015,march,good,450
+2015,march,good,550
+2015,march,good,550
+2015,april ,good,3050
+2015,april ,good,3250
+2015,april ,good,3050
+2015,april ,good,3360
+2015,april ,good,2850
+2015,april ,good,2850
+2015,may,good,1050
+2015,may,good,1050
+2015,may,good,1050
+2015,may,good,850
+2015,may,good,950
+2015,may,good,850
+2015,june ,good,550
+2015,june ,good,550
+2015,june ,good,550
+2015,june ,good,450
+2015,june ,good,450
+2015,june ,good,450
+2015,july ,good,250
+2015,july ,good,250
+2015,july ,good,250
+2015,july ,good,250
+2015,july ,good,250
+2015,july ,good,150
+2015,august ,good,1050
+2015,august ,good,1050
+2015,august ,good,950
+2015,august ,good,950
+2015,august ,good,850
+2015,august ,good,850
+2015,september,good,450
+2015,september,good,450
+2015,september,good,450
+2015,september,good,450
+2015,september,good,350
+2015,september,good,350
+2015,october ,good,250
+2015,october ,good,250
+2015,october ,good,250
+2015,october ,good,250
+2015,october ,good,250
+2015,october ,good,150
+2015,november,good,450
+2015,november,good,450
+2015,november,good,450
+2015,november,good,450
+2015,november,good,350
+2015,november,good,350
+2015,december,good,250
+2015,december,good,250
+2015,december,good,250
+2015,december,good,150
+2015,december,good,150
+2015,december,good,150
+2015,january,bad,250
+2015,january,bad,250
+2015,january,bad,250
+2015,january,bad,250
+2015,january,bad,350
+2015,january,bad,350
+2015,february,bad,450
+2015,february,bad,450
+2015,february,bad,450
+2015,february,bad,450
+2015,february,bad,550
+2015,february,bad,550
+2015,march,bad,850
+2015,march,bad,850
+2015,march,bad,850
+2015,march,bad,950
+2015,march,bad,950
+2015,march,bad,950
+2015,april ,bad,6250
+2015,april ,bad,5850
+2015,april ,bad,6250
+2015,april ,bad,6250
+2015,april ,bad,6450
+2015,april ,bad,6650
+2015,may,bad,2050
+2015,may,bad,2050
+2015,may,bad,2250
+2015,may,bad,2250
+2015,may,bad,1850
+2015,may,bad,2050
+2015,june ,bad,1050
+2015,june ,bad,1250
+2015,june ,bad,1050
+2015,june ,bad,1250
+2015,june ,bad,1160
+2015,june ,bad,1250
+2015,july ,bad,450
+2015,july ,bad,450
+2015,july ,bad,550
+2015,july ,bad,550
+2015,july ,bad,450
+2015,july ,bad,550
+2015,august ,bad,2050
+2015,august ,bad,2050
+2015,august ,bad,2250
+2015,august ,bad,1850
+2015,august ,bad,2250
+2015,august ,bad,1850
+2015,september,bad,850
+2015,september,bad,850
+2015,september,bad,950
+2015,september,bad,1050
+2015,september,bad,950
+2015,september,bad,1050
+2015,october ,bad,450
+2015,october ,bad,450
+2015,october ,bad,450
+2015,october ,bad,450
+2015,october ,bad,450
+2015,october ,bad,550
+2015,november,bad,850
+2015,november,bad,850
+2015,november,bad,850
+2015,november,bad,850
+2015,november,bad,850
+2015,november,bad,850
+2015,december,bad,450
+2015,december,bad,450
+2015,december,bad,450
+2015,december,bad,550
+2015,december,bad,550
+2015,december,bad,550
+2015,january,good,150
+2015,february,good,250
+2015,march,good,450
+2015,april ,good,3050
+2015,may,good,1050
+2015,june ,good,550
+2015,july ,good,250
+2015,august ,good,1050
+2015,september,good,450
+2015,october ,good,250
+2015,november,good,450
+2015,december,good,250
+2015,january,bad,250
+2015,february,bad,450
+2015,march,bad,850
+2015,april ,bad,6050
+2015,may,bad,2050
+2015,june ,bad,1050
+2015,july ,bad,450
+2015,august ,bad,2050
+2015,september,bad,850
+2015,october ,bad,450
+2015,november,bad,850
+2015,december,bad,450
+2015,january,good,250
+2015,january,bad,350
+2015,january,good,150
+2015,february,good,150
+2015,february,bad,450
+2015,february,good,250
+2015,february,bad,550
+2015,january,bad,250
+2015,march,good,350
+2015,march,good,350
+2015,march,bad,850
+2015,march,bad,950
+2015,april ,bad,6250
+2015,april ,bad,6450
+2015,april ,good,2850
+2015,april ,good,2650
+2015,may,bad,2250
+2015,may,bad,2450
+2015,may,good,850
+2015,may,good,650
+2015,june ,bad,1050
+2015,june ,bad,1050
+2015,june ,good,600
+2015,june ,good,650
+2015,july ,bad,450
+2015,july ,bad,550
+2015,july ,good,350
+2015,july ,good,250
+2015,august ,bad,2050
+2015,august ,bad,2250
+2015,august ,good,1250
+2015,august ,good,950
+2015,september,good,350
+2015,september,good,450
+2015,september,bad,950
+2015,september,bad,1050
+2015,october ,good,150
+2015,october ,good,250
+2015,october ,bad,450
+2015,october ,bad,550
+2015,november,bad,950
+2015,november,bad,1050
+2015,november,good,350
+2015,november,good,450
+2015,december,bad,450
+2015,december,bad,550
+2015,december,good,150
+2015,december,good,250
+2015,january,good,150
+2015,january,good,150
+2015,january,bad,450
+2015,january,bad,450
+2015,february,bad,650
+2015,february,bad,750
+2015,february,good,150
+2015,february,good,150
+2015,march,good,250
+2015,march,good,150
+2015,march,bad,1050
+2015,march,bad,1050
+2015,april ,bad,6450
+2015,april ,bad,7050
+2015,april ,good,2050
+2015,april ,good,1050
+2015,may,bad,3050
+2015,may,bad,2850
+2015,may,good,850
+2015,may,good,950
+2015,june ,bad,1160
+2015,june ,bad,1650
+2015,june ,good,350
+2015,june ,good,250
+2015,july ,bad,850
+2015,july ,bad,1050
+2015,july ,good,150
+2015,july ,good,150
+2015,august ,bad,2450
+2015,august ,bad,3050
+2015,august ,good,550
+2015,august ,good,350
+2015,september,good,250
+2015,september,good,250
+2015,september,bad,1050
+2015,september,bad,1250
+2015,october ,good,250
+2015,october ,good,150
+2015,october ,bad,850
+2015,october ,bad,750
+2015,november,bad,1050
+2015,november,bad,1650
+2015,november,good,250
+2015,november,good,250
+2015,december,bad,650
+2015,december,bad,850
+2015,december,good,150
+2015,december,good,150
+2015,january,good,150
+2015,february,bad,550
+2015,march,good,450
+2015,april ,bad,5800
+2015,may,good,950
+2015,june ,bad,1050
+2015,july ,good,250
+2015,august ,bad,2050
+2015,september,good,450
+2015,october ,bad,450
+2015,november,good,350
+2015,december,bad,450
+2015,january,good,150
+2015,january,good,150
+2015,january,good,150
+2015,january,good,250
+2015,january,good,250
+2015,january,good,250
+2015,february,good,250
+2015,february,good,250
+2015,february,good,250
+2015,february,good,350
+2015,february,good,350
+2015,february,good,350
+2015,march,good,450
+2015,march,good,450
+2015,march,good,450
+2015,march,good,450
+2015,march,good,550
+2015,march,good,550
+2015,april ,good,3050
+2015,april ,good,3250
+2015,april ,good,3050
+2015,april ,good,3360
+2015,april ,good,3050
+2015,april ,good,2850
+2015,may,good,1050
+2015,may,good,1050
+2015,may,good,1050
+2015,may,good,850
+2015,may,good,950
+2015,may,good,850
+2015,june ,good,550
+2015,june ,good,550
+2015,june ,good,550
+2015,june ,good,450
+2015,june ,good,450
+2015,june ,good,450
+2015,july ,good,250
+2015,july ,good,250
+2015,july ,good,250
+2015,july ,good,250
+2015,july ,good,250
+2015,july ,good,150
+2015,august ,good,1050
+2015,august ,good,1050
+2015,august ,good,950
+2015,august ,good,950
+2015,august ,good,850
+2015,august ,good,850
+2015,september,good,450
+2015,september,good,450
+2015,september,good,450
+2015,september,good,450
+2015,september,good,350
+2015,september,good,350
+2015,october ,good,250
+2015,october ,good,250
+2015,october ,good,250
+2015,october ,good,250
+2015,october ,good,250
+2015,october ,good,150
+2015,november,good,450
+2015,november,good,450
+2015,november,good,450
+2015,november,good,450
+2015,november,good,350
+2015,november,good,350
+2015,december,good,250
+2015,december,good,250
+2015,december,good,250
+2015,december,good,150
+2015,december,good,150
+2015,december,good,150
+2015,january,bad,250
+2015,january,bad,250
+2015,january,bad,250
+2015,january,bad,250
+2015,january,bad,350
+2015,january,bad,350
+2015,february,bad,450
+2015,february,bad,450
+2015,february,bad,450
+2015,february,bad,450
+2015,february,bad,550
+2015,february,bad,550
+2015,march,bad,850
+2015,march,bad,850
+2015,march,bad,850
+2015,march,bad,950
+2015,march,bad,950
+2015,march,bad,950
+2015,april ,bad,6250
+2015,april ,bad,5850
+2015,april ,bad,6250
+2015,april ,bad,6350
+2015,april ,bad,6350
+2015,april ,bad,6550
+2015,may,bad,2050
+2015,may,bad,2150
+2015,may,bad,2250
+2015,may,bad,2350
+2015,may,bad,1950
+2015,may,bad,2050
+2015,june ,bad,1050
+2015,june ,bad,1250
+2015,june ,bad,1050
+2015,june ,bad,1250
+2015,june ,bad,1050
+2015,june ,bad,1250
+2015,july ,bad,450
+2015,july ,bad,450
+2015,july ,bad,550
+2015,july ,bad,550
+2015,july ,bad,450
+2015,july ,bad,550
+2015,august ,bad,2050
+2015,august ,bad,2050
+2015,august ,bad,2250
+2015,august ,bad,1950
+2015,august ,bad,2150
+2015,august ,bad,1850
+2015,september,bad,850
+2015,september,bad,850
+2015,september,bad,950
+2015,september,bad,1050
+2015,september,bad,950
+2015,september,bad,1050
+2015,october ,bad,450
+2015,october ,bad,450
+2015,october ,bad,450
+2015,october ,bad,450
+2015,october ,bad,450
+2015,october ,bad,550
+2015,november,bad,850
+2015,november,bad,850
+2015,november,bad,850
+2015,november,bad,850
+2015,november,bad,850
+2015,november,bad,850
+2015,december,bad,450
+2015,december,bad,450
+2015,december,bad,450
+2015,december,bad,550
+2015,december,bad,550
+2015,december,bad,550
+2015,january,bad,250
+2015,february,bad,450
+2015,march,bad,850
+2015,april ,bad,6050
+2015,may,bad,2050
+2015,june ,bad,1050
+2015,july ,bad,450
+2015,august ,bad,2050
+2015,september,bad,850
+2015,october ,bad,450
+2015,november,bad,850
+2015,december,bad,450
+2015,january,good,150
+2015,april ,bad,7050
+2015,april ,bad,7050
+2015,december,bad,600
+2015,april ,bad,5850
+2015,april ,bad,6250
+2015,april ,bad,6350
+2015,april ,bad,6550
+2015,april ,bad,6650
+2015,april ,bad,6650
+2015,august ,good,1650
+2015,june ,bad,2350
+2015,april ,bad,6650
+2016,january,good,140
+2016,february,good,240
+2016,march,good,440
+2016,april ,good,3040
+2016,may,good,1040
+2016,june ,good,540
+2016,july ,good,240
+2016,august ,good,1040
+2016,september,good,440
+2016,october ,good,240
+2016,november,good,440
+2016,december,good,240
+2016,january,bad,240
+2016,february,bad,440
+2016,march,bad,840
+2016,april ,bad,6040
+2016,may,bad,2040
+2016,june ,bad,1040
+2016,july ,bad,440
+2016,august ,bad,2040
+2016,september,bad,840
+2016,october ,bad,440
+2016,november,bad,840
+2016,december,bad,440
+2016,january,good,240
+2016,january,bad,340
+2016,january,good,140
+2016,february,good,240
+2016,february,bad,440
+2016,february,good,240
+2016,february,bad,540
+2016,january,bad,240
+2016,march,good,340
+2016,march,good,340
+2016,march,bad,840
+2016,march,bad,940
+2016,april ,bad,6240
+2016,april ,bad,6440
+2016,april ,good,2840
+2016,april ,good,2960
+2016,may,bad,2240
+2016,may,bad,2440
+2016,may,good,840
+2016,may,good,640
+2016,june ,bad,1040
+2016,june ,bad,1040
+2016,june ,good,540
+2016,june ,good,640
+2016,july ,bad,440
+2016,july ,bad,540
+2016,july ,good,340
+2016,july ,good,240
+2016,august ,bad,2240
+2016,august ,bad,2240
+2016,august ,good,1040
+2016,august ,good,940
+2016,september,good,340
+2016,september,good,440
+2016,september,bad,940
+2016,september,bad,1040
+2016,october ,good,140
+2016,october ,good,240
+2016,october ,bad,440
+2016,october ,bad,540
+2016,november,bad,940
+2016,november,bad,1040
+2016,november,good,340
+2016,november,good,440
+2016,december,bad,440
+2016,december,bad,540
+2016,december,good,140
+2016,december,good,240
+2016,january,good,140
+2016,january,good,140
+2016,january,bad,440
+2016,january,bad,440
+2016,february,bad,640
+2016,february,bad,740
+2016,february,good,140
+2016,february,good,140
+2016,march,good,240
+2016,march,good,140
+2016,march,bad,1040
+2016,march,bad,1040
+2016,april ,bad,6440
+2016,april ,bad,6440
+2016,april ,good,2040
+2016,april ,good,1040
+2016,may,bad,3040
+2016,may,bad,2840
+2016,may,good,840
+2016,may,good,940
+2016,june ,bad,1040
+2016,june ,bad,1640
+2016,june ,good,340
+2016,june ,good,240
+2016,july ,bad,840
+2016,july ,bad,1040
+2016,july ,good,140
+2016,july ,good,140
+2016,august ,bad,2960
+2016,august ,bad,3040
+2016,august ,good,540
+2016,august ,good,340
+2016,september,good,240
+2016,september,good,240
+2016,september,bad,1040
+2016,september,bad,1040
+2016,october ,good,240
+2016,october ,good,140
+2016,october ,bad,840
+2016,october ,bad,740
+2016,november,bad,1040
+2016,november,bad,1640
+2016,november,good,240
+2016,november,good,140
+2016,december,bad,640
+2016,december,bad,840
+2016,december,good,240
+2016,december,good,140
+2016,january,good,140
+2016,february,bad,540
+2016,march,good,440
+2016,april ,bad,5960
+2016,may,good,940
+2016,june ,bad,1040
+2016,july ,good,240
+2016,august ,bad,2240
+2016,september,good,440
+2016,october ,bad,440
+2016,november,good,340
+2016,december,bad,440
+2016,january,good,140
+2016,january,good,140
+2016,january,good,140
+2016,january,good,240
+2016,january,good,240
+2016,january,good,240
+2016,february,good,240
+2016,february,good,240
+2016,february,good,240
+2016,february,good,340
+2016,february,good,340
+2016,february,good,340
+2016,march,good,440
+2016,march,good,440
+2016,march,good,440
+2016,march,good,440
+2016,march,good,540
+2016,march,good,540
+2016,april ,good,3040
+2016,april ,good,3050
+2016,april ,good,3040
+2016,april ,good,3440
+2016,april ,good,2840
+2016,april ,good,2840
+2016,may,good,1040
+2016,may,good,1040
+2016,may,good,1040
+2016,may,good,840
+2016,may,good,940
+2016,may,good,840
+2016,june ,good,540
+2016,june ,good,540
+2016,june ,good,540
+2016,june ,good,440
+2016,june ,good,440
+2016,june ,good,440
+2016,july ,good,240
+2016,july ,good,240
+2016,july ,good,240
+2016,july ,good,240
+2016,july ,good,240
+2016,july ,good,140
+2016,august ,good,1040
+2016,august ,good,1040
+2016,august ,good,940
+2016,august ,good,940
+2016,august ,good,840
+2016,august ,good,840
+2016,september,good,440
+2016,september,good,440
+2016,september,good,440
+2016,september,good,440
+2016,september,good,340
+2016,september,good,340
+2016,october ,good,240
+2016,october ,good,240
+2016,october ,good,240
+2016,october ,good,240
+2016,october ,good,240
+2016,october ,good,140
+2016,november,good,440
+2016,november,good,440
+2016,november,good,440
+2016,november,good,440
+2016,november,good,340
+2016,november,good,340
+2016,december,good,240
+2016,december,good,240
+2016,december,good,240
+2016,december,good,140
+2016,december,good,140
+2016,december,good,140
+2016,january,bad,240
+2016,january,bad,240
+2016,january,bad,240
+2016,january,bad,240
+2016,january,bad,340
+2016,january,bad,340
+2016,february,bad,440
+2016,february,bad,440
+2016,february,bad,440
+2016,february,bad,440
+2016,february,bad,540
+2016,february,bad,540
+2016,march,bad,840
+2016,march,bad,840
+2016,march,bad,840
+2016,march,bad,940
+2016,march,bad,940
+2016,march,bad,940
+2016,april ,bad,6240
+2016,april ,bad,5840
+2016,april ,bad,6240
+2016,april ,bad,6240
+2016,april ,bad,6440
+2016,april ,bad,6640
+2016,may,bad,2040
+2016,may,bad,2040
+2016,may,bad,2240
+2016,may,bad,2240
+2016,may,bad,1840
+2016,may,bad,2040
+2016,june ,bad,1040
+2016,june ,bad,1240
+2016,june ,bad,1040
+2016,june ,bad,1240
+2016,june ,bad,1440
+2016,june ,bad,1240
+2016,july ,bad,440
+2016,july ,bad,440
+2016,july ,bad,540
+2016,july ,bad,540
+2016,july ,bad,440
+2016,july ,bad,540
+2016,august ,bad,2040
+2016,august ,bad,2040
+2016,august ,bad,2240
+2016,august ,bad,1840
+2016,august ,bad,2240
+2016,august ,bad,1840
+2016,september,bad,840
+2016,september,bad,840
+2016,september,bad,940
+2016,september,bad,1040
+2016,september,bad,940
+2016,september,bad,1040
+2016,october ,bad,440
+2016,october ,bad,440
+2016,october ,bad,440
+2016,october ,bad,440
+2016,october ,bad,440
+2016,october ,bad,540
+2016,november,bad,840
+2016,november,bad,840
+2016,november,bad,840
+2016,november,bad,840
+2016,november,bad,840
+2016,november,bad,840
+2016,december,bad,440
+2016,december,bad,440
+2016,december,bad,440
+2016,december,bad,540
+2016,december,bad,540
+2016,december,bad,540
+2016,january,good,140
+2016,february,good,240
+2016,march,good,440
+2016,april ,good,3040
+2016,may,good,1040
+2016,june ,good,540
+2016,july ,good,240
+2016,august ,good,1040
+2016,september,good,440
+2016,october ,good,240
+2016,november,good,440
+2016,december,good,240
+2016,january,bad,240
+2016,february,bad,440
+2016,march,bad,840
+2016,april ,bad,6040
+2016,may,bad,2040
+2016,june ,bad,1040
+2016,july ,bad,440
+2016,august ,bad,2040
+2016,september,bad,840
+2016,october ,bad,440
+2016,november,bad,840
+2016,december,bad,440
+2016,january,good,240
+2016,january,bad,340
+2016,january,good,140
+2016,february,good,140
+2016,february,bad,440
+2016,february,good,240
+2016,february,bad,540
+2016,january,bad,240
+2016,march,good,340
+2016,march,good,340
+2016,march,bad,840
+2016,march,bad,940
+2016,april ,bad,6240
+2016,april ,bad,6440
+2016,april ,good,2840
+2016,april ,good,2960
+2016,may,bad,2240
+2016,may,bad,2440
+2016,may,good,840
+2016,may,good,640
+2016,june ,bad,1040
+2016,june ,bad,1040
+2016,june ,good,590
+2016,june ,good,640
+2016,july ,bad,440
+2016,july ,bad,540
+2016,july ,good,340
+2016,july ,good,240
+2016,august ,bad,2040
+2016,august ,bad,2240
+2016,august ,good,1240
+2016,august ,good,940
+2016,september,good,340
+2016,september,good,440
+2016,september,bad,940
+2016,september,bad,1040
+2016,october ,good,140
+2016,october ,good,240
+2016,october ,bad,440
+2016,october ,bad,540
+2016,november,bad,940
+2016,november,bad,1040
+2016,november,good,340
+2016,november,good,440
+2016,december,bad,440
+2016,december,bad,540
+2016,december,good,140
+2016,december,good,240
+2016,january,good,140
+2016,january,good,140
+2016,january,bad,440
+2016,january,bad,440
+2016,february,bad,640
+2016,february,bad,740
+2016,february,good,140
+2016,february,good,140
+2016,march,good,240
+2016,march,good,140
+2016,march,bad,1040
+2016,march,bad,1040
+2016,april ,bad,6440
+2016,april ,bad,7040
+2016,april ,good,2040
+2016,april ,good,1040
+2016,may,bad,3040
+2016,may,bad,2840
+2016,may,good,840
+2016,may,good,940
+2016,june ,bad,1440
+2016,june ,bad,1640
+2016,june ,good,340
+2016,june ,good,240
+2016,july ,bad,840
+2016,july ,bad,1040
+2016,july ,good,140
+2016,july ,good,140
+2016,august ,bad,2440
+2016,august ,bad,3040
+2016,august ,good,540
+2016,august ,good,340
+2016,september,good,240
+2016,september,good,240
+2016,september,bad,1040
+2016,september,bad,1240
+2016,october ,good,240
+2016,october ,good,140
+2016,october ,bad,840
+2016,october ,bad,740
+2016,november,bad,1040
+2016,november,bad,1640
+2016,november,good,240
+2016,november,good,240
+2016,december,bad,640
+2016,december,bad,840
+2016,december,good,140
+2016,december,good,140
+2016,january,good,140
+2016,february,bad,540
+2016,march,good,440
+2016,april ,bad,5960
+2016,may,good,940
+2016,june ,bad,1040
+2016,july ,good,240
+2016,august ,bad,2040
+2016,september,good,440
+2016,october ,bad,440
+2016,november,good,340
+2016,december,bad,440
+2016,january,good,140
+2016,january,good,140
+2016,january,good,140
+2016,january,good,240
+2016,january,good,240
+2016,january,good,240
+2016,february,good,240
+2016,february,good,240
+2016,february,good,240
+2016,february,good,340
+2016,february,good,340
+2016,february,good,340
+2016,march,good,440
+2016,march,good,440
+2016,march,good,440
+2016,march,good,440
+2016,march,good,540
+2016,march,good,540
+2016,april ,good,3040
+2016,april ,good,3050
+2016,april ,good,3040
+2016,april ,good,3440
+2016,april ,good,3040
+2016,april ,good,2840
+2016,may,good,1040
+2016,may,good,1040
+2016,may,good,1040
+2016,may,good,840
+2016,may,good,940
+2016,may,good,840
+2016,june ,good,540
+2016,june ,good,540
+2016,june ,good,540
+2016,june ,good,440
+2016,june ,good,440
+2016,june ,good,440
+2016,july ,good,240
+2016,july ,good,240
+2016,july ,good,240
+2016,july ,good,240
+2016,july ,good,240
+2016,july ,good,140
+2016,august ,good,1040
+2016,august ,good,1040
+2016,august ,good,940
+2016,august ,good,940
+2016,august ,good,840
+2016,august ,good,840
+2016,september,good,440
+2016,september,good,440
+2016,september,good,440
+2016,september,good,440
+2016,september,good,340
+2016,september,good,340
+2016,october ,good,240
+2016,october ,good,240
+2016,october ,good,240
+2016,october ,good,240
+2016,october ,good,240
+2016,october ,good,140
+2016,november,good,440
+2016,november,good,440
+2016,november,good,440
+2016,november,good,440
+2016,november,good,340
+2016,november,good,340
+2016,december,good,240
+2016,december,good,240
+2016,december,good,240
+2016,december,good,140
+2016,december,good,140
+2016,december,good,140
+2016,january,bad,240
+2016,january,bad,240
+2016,january,bad,240
+2016,january,bad,240
+2016,january,bad,340
+2016,january,bad,340
+2016,february,bad,440
+2016,february,bad,440
+2016,february,bad,440
+2016,february,bad,440
+2016,february,bad,540
+2016,february,bad,540
+2016,march,bad,840
+2016,march,bad,840
+2016,march,bad,840
+2016,march,bad,940
+2016,march,bad,940
+2016,march,bad,940
+2016,april ,bad,6240
+2016,april ,bad,5840
+2016,april ,bad,6240
+2016,april ,bad,6340
+2016,april ,bad,6340
+2016,april ,bad,6540
+2016,may,bad,2040
+2016,may,bad,2140
+2016,may,bad,2240
+2016,may,bad,2340
+2016,may,bad,1950
+2016,may,bad,2040
+2016,june ,bad,1040
+2016,june ,bad,1240
+2016,june ,bad,1040
+2016,june ,bad,1240
+2016,june ,bad,1040
+2016,june ,bad,1240
+2016,july ,bad,440
+2016,july ,bad,440
+2016,july ,bad,540
+2016,july ,bad,540
+2016,july ,bad,440
+2016,july ,bad,540
+2016,august ,bad,2040
+2016,august ,bad,2040
+2016,august ,bad,2240
+2016,august ,bad,1950
+2016,august ,bad,2140
+2016,august ,bad,1840
+2016,september,bad,840
+2016,september,bad,840
+2016,september,bad,940
+2016,september,bad,1040
+2016,september,bad,940
+2016,september,bad,1040
+2016,october ,bad,440
+2016,october ,bad,440
+2016,october ,bad,440
+2016,october ,bad,440
+2016,october ,bad,440
+2016,october ,bad,540
+2016,november,bad,840
+2016,november,bad,840
+2016,november,bad,840
+2016,november,bad,840
+2016,november,bad,840
+2016,november,bad,840
+2016,december,bad,440
+2016,december,bad,440
+2016,december,bad,440
+2016,december,bad,540
+2016,december,bad,540
+2016,december,bad,540
+2016,january,bad,240
+2016,february,bad,440
+2016,march,bad,840
+2016,april ,bad,6040
+2016,may,bad,2040
+2016,june ,bad,1040
+2016,july ,bad,440
+2016,august ,bad,2040
+2016,september,bad,840
+2016,october ,bad,440
+2016,november,bad,840
+2016,december,bad,440
+2016,january,good,140
+2016,april ,bad,7040
+2016,april ,bad,7040
+2016,december,bad,590
+2016,april ,bad,5840
+2016,april ,bad,6240
+2016,april ,bad,6340
+2016,april ,bad,6540
+2016,april ,bad,6640
+2016,april ,bad,6640
+2016,august ,good,1640
+2016,june ,bad,2340
+2016,april ,bad,6640
+2017,january,good,60
+2017,february,good,160
+2017,march,good,360
+2017,april ,good,2960
+2017,may,good,960
+2017,june ,good,460
+2017,july ,good,160
+2017,august ,good,960
+2017,september,good,360
+2017,october ,good,160
+2017,november,good,360
+2017,december,good,160
+2017,january,bad,160
+2017,february,bad,360
+2017,march,bad,760
+2017,april ,bad,5960
+2017,may,bad,1960
+2017,june ,bad,960
+2017,july ,bad,360
+2017,august ,bad,1960
+2017,september,bad,760
+2017,october ,bad,360
+2017,november,bad,760
+2017,december,bad,360
+2017,january,good,160
+2017,january,bad,260
+2017,january,good,60
+2017,february,good,160
+2017,february,bad,360
+2017,february,good,160
+2017,february,bad,460
+2017,january,bad,160
+2017,march,good,260
+2017,march,good,260
+2017,march,bad,760
+2017,march,bad,860
+2017,april ,bad,6160
+2017,april ,bad,6360
+2017,april ,good,2760
+2017,april ,good,2560
+2017,may,bad,2160
+2017,may,bad,2360
+2017,may,good,760
+2017,may,good,560
+2017,june ,bad,960
+2017,june ,bad,960
+2017,june ,good,460
+2017,june ,good,560
+2017,july ,bad,360
+2017,july ,bad,460
+2017,july ,good,260
+2017,july ,good,160
+2017,august ,bad,2160
+2017,august ,bad,2160
+2017,august ,good,960
+2017,august ,good,860
+2017,september,good,260
+2017,september,good,360
+2017,september,bad,860
+2017,september,bad,960
+2017,october ,good,60
+2017,october ,good,160
+2017,october ,bad,360
+2017,october ,bad,460
+2017,november,bad,860
+2017,november,bad,960
+2017,november,good,260
+2017,november,good,360
+2017,december,bad,360
+2017,december,bad,460
+2017,december,good,60
+2017,december,good,160
+2017,january,good,60
+2017,january,good,60
+2017,january,bad,360
+2017,january,bad,360
+2017,february,bad,560
+2017,february,bad,660
+2017,february,good,60
+2017,february,good,60
+2017,march,good,160
+2017,march,good,60
+2017,march,bad,960
+2017,march,bad,960
+2017,april ,bad,6360
+2017,april ,bad,6360
+2017,april ,good,1960
+2017,april ,good,960
+2017,may,bad,2960
+2017,may,bad,2760
+2017,may,good,760
+2017,may,good,860
+2017,june ,bad,960
+2017,june ,bad,1560
+2017,june ,good,260
+2017,june ,good,160
+2017,july ,bad,760
+2017,july ,bad,960
+2017,july ,good,60
+2017,july ,good,60
+2017,august ,bad,2560
+2017,august ,bad,2960
+2017,august ,good,460
+2017,august ,good,260
+2017,september,good,160
+2017,september,good,160
+2017,september,bad,960
+2017,september,bad,960
+2017,october ,good,160
+2017,october ,good,60
+2017,october ,bad,760
+2017,october ,bad,660
+2017,november,bad,960
+2017,november,bad,1560
+2017,november,good,160
+2017,november,good,60
+2017,december,bad,560
+2017,december,bad,760
+2017,december,good,160
+2017,december,good,60
+2017,january,good,60
+2017,february,bad,460
+2017,march,good,360
+2017,april ,bad,5560
+2017,may,good,860
+2017,june ,bad,960
+2017,july ,good,160
+2017,august ,bad,2160
+2017,september,good,360
+2017,october ,bad,360
+2017,november,good,260
+2017,december,bad,360
+2017,january,good,60
+2017,january,good,60
+2017,january,good,60
+2017,january,good,160
+2017,january,good,160
+2017,january,good,160
+2017,february,good,160
+2017,february,good,160
+2017,february,good,160
+2017,february,good,260
+2017,february,good,260
+2017,february,good,260
+2017,march,good,360
+2017,march,good,360
+2017,march,good,360
+2017,march,good,360
+2017,march,good,460
+2017,march,good,460
+2017,april ,good,2960
+2017,april ,good,3190
+2017,april ,good,2960
+2017,april ,good,3360
+2017,april ,good,2760
+2017,april ,good,2760
+2017,may,good,960
+2017,may,good,960
+2017,may,good,960
+2017,may,good,760
+2017,may,good,860
+2017,may,good,760
+2017,june ,good,460
+2017,june ,good,460
+2017,june ,good,460
+2017,june ,good,360
+2017,june ,good,360
+2017,june ,good,360
+2017,july ,good,160
+2017,july ,good,160
+2017,july ,good,160
+2017,july ,good,160
+2017,july ,good,160
+2017,july ,good,60
+2017,august ,good,960
+2017,august ,good,960
+2017,august ,good,860
+2017,august ,good,860
+2017,august ,good,760
+2017,august ,good,760
+2017,september,good,360
+2017,september,good,360
+2017,september,good,360
+2017,september,good,360
+2017,september,good,260
+2017,september,good,260
+2017,october ,good,160
+2017,october ,good,160
+2017,october ,good,160
+2017,october ,good,160
+2017,october ,good,160
+2017,october ,good,60
+2017,november,good,360
+2017,november,good,360
+2017,november,good,360
+2017,november,good,360
+2017,november,good,260
+2017,november,good,260
+2017,december,good,160
+2017,december,good,160
+2017,december,good,160
+2017,december,good,60
+2017,december,good,60
+2017,december,good,60
+2017,january,bad,160
+2017,january,bad,160
+2017,january,bad,160
+2017,january,bad,160
+2017,january,bad,260
+2017,january,bad,260
+2017,february,bad,360
+2017,february,bad,360
+2017,february,bad,360
+2017,february,bad,360
+2017,february,bad,460
+2017,february,bad,460
+2017,march,bad,760
+2017,march,bad,760
+2017,march,bad,760
+2017,march,bad,860
+2017,march,bad,860
+2017,march,bad,860
+2017,april ,bad,6160
+2017,april ,bad,5760
+2017,april ,bad,6160
+2017,april ,bad,6160
+2017,april ,bad,6360
+2017,april ,bad,6560
+2017,may,bad,1960
+2017,may,bad,1960
+2017,may,bad,2160
+2017,may,bad,2160
+2017,may,bad,1760
+2017,may,bad,1960
+2017,june ,bad,960
+2017,june ,bad,1160
+2017,june ,bad,960
+2017,june ,bad,1160
+2017,june ,bad,1360
+2017,june ,bad,1160
+2017,july ,bad,360
+2017,july ,bad,360
+2017,july ,bad,460
+2017,july ,bad,460
+2017,july ,bad,360
+2017,july ,bad,460
+2017,august ,bad,1960
+2017,august ,bad,1960
+2017,august ,bad,2160
+2017,august ,bad,1760
+2017,august ,bad,2160
+2017,august ,bad,1760
+2017,september,bad,760
+2017,september,bad,760
+2017,september,bad,860
+2017,september,bad,960
+2017,september,bad,860
+2017,september,bad,960
+2017,october ,bad,360
+2017,october ,bad,360
+2017,october ,bad,360
+2017,october ,bad,360
+2017,october ,bad,360
+2017,october ,bad,460
+2017,november,bad,760
+2017,november,bad,760
+2017,november,bad,760
+2017,november,bad,760
+2017,november,bad,760
+2017,november,bad,760
+2017,december,bad,360
+2017,december,bad,360
+2017,december,bad,360
+2017,december,bad,460
+2017,december,bad,460
+2017,december,bad,460
+2017,january,good,60
+2017,february,good,160
+2017,march,good,360
+2017,april ,good,2960
+2017,may,good,960
+2017,june ,good,460
+2017,july ,good,160
+2017,august ,good,960
+2017,september,good,360
+2017,october ,good,160
+2017,november,good,360
+2017,december,good,160
+2017,january,bad,160
+2017,february,bad,360
+2017,march,bad,760
+2017,april ,bad,5960
+2017,may,bad,1960
+2017,june ,bad,960
+2017,july ,bad,360
+2017,august ,bad,1960
+2017,september,bad,760
+2017,october ,bad,360
+2017,november,bad,760
+2017,december,bad,360
+2017,january,good,160
+2017,january,bad,260
+2017,january,good,60
+2017,february,good,60
+2017,february,bad,360
+2017,february,good,160
+2017,february,bad,460
+2017,january,bad,160
+2017,march,good,260
+2017,march,good,260
+2017,march,bad,760
+2017,march,bad,860
+2017,april ,bad,6160
+2017,april ,bad,6360
+2017,april ,good,2760
+2017,april ,good,2560
+2017,may,bad,2160
+2017,may,bad,2360
+2017,may,good,760
+2017,may,good,560
+2017,june ,bad,960
+2017,june ,bad,960
+2017,june ,good,510
+2017,june ,good,560
+2017,july ,bad,360
+2017,july ,bad,460
+2017,july ,good,260
+2017,july ,good,160
+2017,august ,bad,1960
+2017,august ,bad,2160
+2017,august ,good,1160
+2017,august ,good,860
+2017,september,good,260
+2017,september,good,360
+2017,september,bad,860
+2017,september,bad,960
+2017,october ,good,60
+2017,october ,good,160
+2017,october ,bad,360
+2017,october ,bad,460
+2017,november,bad,860
+2017,november,bad,960
+2017,november,good,260
+2017,november,good,360
+2017,december,bad,360
+2017,december,bad,460
+2017,december,good,60
+2017,december,good,160
+2017,january,good,60
+2017,january,good,60
+2017,january,bad,360
+2017,january,bad,360
+2017,february,bad,560
+2017,february,bad,660
+2017,february,good,60
+2017,february,good,60
+2017,march,good,160
+2017,march,good,60
+2017,march,bad,960
+2017,march,bad,960
+2017,april ,bad,6360
+2017,april ,bad,6960
+2017,april ,good,1960
+2017,april ,good,960
+2017,may,bad,2960
+2017,may,bad,2760
+2017,may,good,760
+2017,may,good,860
+2017,june ,bad,1360
+2017,june ,bad,1560
+2017,june ,good,260
+2017,june ,good,160
+2017,july ,bad,760
+2017,july ,bad,960
+2017,july ,good,60
+2017,july ,good,60
+2017,august ,bad,2360
+2017,august ,bad,2960
+2017,august ,good,460
+2017,august ,good,260
+2017,september,good,160
+2017,september,good,160
+2017,september,bad,960
+2017,september,bad,1160
+2017,october ,good,160
+2017,october ,good,60
+2017,october ,bad,760
+2017,october ,bad,660
+2017,november,bad,960
+2017,november,bad,1560
+2017,november,good,160
+2017,november,good,160
+2017,december,bad,560
+2017,december,bad,760
+2017,december,good,60
+2017,december,good,60
+2017,january,good,60
+2017,february,bad,460
+2017,march,good,360
+2017,april ,bad,5560
+2017,may,good,860
+2017,june ,bad,960
+2017,july ,good,160
+2017,august ,bad,1960
+2017,september,good,360
+2017,october ,bad,360
+2017,november,good,260
+2017,december,bad,360
+2017,january,good,60
+2017,january,good,60
+2017,january,good,60
+2017,january,good,160
+2017,january,good,160
+2017,january,good,160
+2017,february,good,160
+2017,february,good,160
+2017,february,good,160
+2017,february,good,260
+2017,february,good,260
+2017,february,good,260
+2017,march,good,360
+2017,march,good,360
+2017,march,good,360
+2017,march,good,360
+2017,march,good,460
+2017,march,good,460
+2017,april ,good,2960
+2017,april ,good,3190
+2017,april ,good,2960
+2017,april ,good,3360
+2017,april ,good,2960
+2017,april ,good,2760
+2017,may,good,960
+2017,may,good,960
+2017,may,good,960
+2017,may,good,760
+2017,may,good,860
+2017,may,good,760
+2017,june ,good,460
+2017,june ,good,460
+2017,june ,good,460
+2017,june ,good,360
+2017,june ,good,360
+2017,june ,good,360
+2017,july ,good,160
+2017,july ,good,160
+2017,july ,good,160
+2017,july ,good,160
+2017,july ,good,160
+2017,july ,good,60
+2017,august ,good,960
+2017,august ,good,960
+2017,august ,good,860
+2017,august ,good,860
+2017,august ,good,760
+2017,august ,good,760
+2017,september,good,360
+2017,september,good,360
+2017,september,good,360
+2017,september,good,360
+2017,september,good,260
+2017,september,good,260
+2017,october ,good,160
+2017,october ,good,160
+2017,october ,good,160
+2017,october ,good,160
+2017,october ,good,160
+2017,october ,good,60
+2017,november,good,360
+2017,november,good,360
+2017,november,good,360
+2017,november,good,360
+2017,november,good,260
+2017,november,good,260
+2017,december,good,160
+2017,december,good,160
+2017,december,good,160
+2017,december,good,60
+2017,december,good,60
+2017,december,good,60
+2017,january,bad,160
+2017,january,bad,160
+2017,january,bad,160
+2017,january,bad,160
+2017,january,bad,260
+2017,january,bad,260
+2017,february,bad,360
+2017,february,bad,360
+2017,february,bad,360
+2017,february,bad,360
+2017,february,bad,460
+2017,february,bad,460
+2017,march,bad,760
+2017,march,bad,760
+2017,march,bad,760
+2017,march,bad,860
+2017,march,bad,860
+2017,march,bad,860
+2017,april ,bad,6160
+2017,april ,bad,5760
+2017,april ,bad,6160
+2017,april ,bad,6260
+2017,april ,bad,6260
+2017,april ,bad,6460
+2017,may,bad,1960
+2017,may,bad,2060
+2017,may,bad,2160
+2017,may,bad,2210
+2017,may,bad,1860
+2017,may,bad,1960
+2017,june ,bad,960
+2017,june ,bad,1160
+2017,june ,bad,960
+2017,june ,bad,1160
+2017,june ,bad,960
+2017,june ,bad,1160
+2017,july ,bad,360
+2017,july ,bad,360
+2017,july ,bad,460
+2017,july ,bad,460
+2017,july ,bad,360
+2017,july ,bad,460
+2017,august ,bad,1960
+2017,august ,bad,1960
+2017,august ,bad,2160
+2017,august ,bad,1860
+2017,august ,bad,2060
+2017,august ,bad,1760
+2017,september,bad,760
+2017,september,bad,760
+2017,september,bad,860
+2017,september,bad,960
+2017,september,bad,860
+2017,september,bad,960
+2017,october ,bad,360
+2017,october ,bad,360
+2017,october ,bad,360
+2017,october ,bad,360
+2017,october ,bad,360
+2017,october ,bad,460
+2017,november,bad,760
+2017,november,bad,760
+2017,november,bad,760
+2017,november,bad,760
+2017,november,bad,760
+2017,november,bad,760
+2017,december,bad,360
+2017,december,bad,360
+2017,december,bad,360
+2017,december,bad,460
+2017,december,bad,460
+2017,december,bad,460
+2017,january,bad,160
+2017,february,bad,360
+2017,march,bad,760
+2017,april ,bad,5960
+2017,may,bad,1960
+2017,june ,bad,960
+2017,july ,bad,360
+2017,august ,bad,1960
+2017,september,bad,760
+2017,october ,bad,360
+2017,november,bad,760
+2017,december,bad,360
+2017,january,good,60
+2017,april ,bad,6960
+2017,april ,bad,6960
+2017,december,bad,510
+2017,april ,bad,5760
+2017,april ,bad,6160
+2017,april ,bad,6260
+2017,april ,bad,6460
+2017,april ,bad,6560
+2017,april ,bad,6560
+2017,august ,good,1560
+2017,june ,bad,2210
+2017,april ,bad,6560
+2018,january,good,130
+2018,february,good,230
+2018,march,good,430
+2018,april ,good,3030
+2018,may,good,1030
+2018,june ,good,530
+2018,july ,good,230
+2018,august ,good,1030
+2018,september,good,430
+2018,october ,good,230
+2018,november,good,430
+2018,december,good,230
+2018,january,bad,230
+2018,february,bad,430
+2018,march,bad,830
+2018,april ,bad,6350
+2018,may,bad,2030
+2018,june ,bad,1030
+2018,july ,bad,430
+2018,august ,bad,2030
+2018,september,bad,830
+2018,october ,bad,430
+2018,november,bad,830
+2018,december,bad,430
+2018,january,good,230
+2018,january,bad,330
+2018,january,good,130
+2018,february,good,230
+2018,february,bad,430
+2018,february,good,230
+2018,february,bad,530
+2018,january,bad,230
+2018,march,good,330
+2018,march,good,330
+2018,march,bad,830
+2018,march,bad,930
+2018,april ,bad,6230
+2018,april ,bad,6430
+2018,april ,good,2830
+2018,april ,good,2630
+2018,may,bad,2230
+2018,may,bad,2430
+2018,may,good,830
+2018,may,good,630
+2018,june ,bad,1030
+2018,june ,bad,1030
+2018,june ,good,530
+2018,june ,good,630
+2018,july ,bad,430
+2018,july ,bad,530
+2018,july ,good,330
+2018,july ,good,230
+2018,august ,bad,2230
+2018,august ,bad,2230
+2018,august ,good,1030
+2018,august ,good,930
+2018,september,good,330
+2018,september,good,430
+2018,september,bad,930
+2018,september,bad,1030
+2018,october ,good,130
+2018,october ,good,230
+2018,october ,bad,430
+2018,october ,bad,530
+2018,november,bad,930
+2018,november,bad,1030
+2018,november,good,330
+2018,november,good,430
+2018,december,bad,430
+2018,december,bad,530
+2018,december,good,130
+2018,december,good,230
+2018,january,good,130
+2018,january,good,130
+2018,january,bad,430
+2018,january,bad,430
+2018,february,bad,630
+2018,february,bad,730
+2018,february,good,130
+2018,february,good,130
+2018,march,good,230
+2018,march,good,130
+2018,march,bad,1030
+2018,march,bad,1030
+2018,april ,bad,6430
+2018,april ,bad,6430
+2018,april ,good,2030
+2018,april ,good,1030
+2018,may,bad,3030
+2018,may,bad,2830
+2018,may,good,830
+2018,may,good,930
+2018,june ,bad,1030
+2018,june ,bad,1630
+2018,june ,good,330
+2018,june ,good,230
+2018,july ,bad,830
+2018,july ,bad,1030
+2018,july ,good,130
+2018,july ,good,130
+2018,august ,bad,2630
+2018,august ,bad,3030
+2018,august ,good,530
+2018,august ,good,330
+2018,september,good,230
+2018,september,good,230
+2018,september,bad,1030
+2018,september,bad,1030
+2018,october ,good,230
+2018,october ,good,130
+2018,october ,bad,830
+2018,october ,bad,730
+2018,november,bad,1030
+2018,november,bad,1630
+2018,november,good,230
+2018,november,good,130
+2018,december,bad,630
+2018,december,bad,830
+2018,december,good,230
+2018,december,good,130
+2018,january,good,130
+2018,february,bad,530
+2018,march,good,430
+2018,april ,bad,5800
+2018,may,good,930
+2018,june ,bad,1030
+2018,july ,good,230
+2018,august ,bad,2230
+2018,september,good,430
+2018,october ,bad,430
+2018,november,good,330
+2018,december,bad,430
+2018,january,good,130
+2018,january,good,130
+2018,january,good,130
+2018,january,good,230
+2018,january,good,230
+2018,january,good,230
+2018,february,good,230
+2018,february,good,230
+2018,february,good,230
+2018,february,good,330
+2018,february,good,330
+2018,february,good,330
+2018,march,good,430
+2018,march,good,430
+2018,march,good,430
+2018,march,good,430
+2018,march,good,530
+2018,march,good,530
+2018,april ,good,3030
+2018,april ,good,3050
+2018,april ,good,3030
+2018,april ,good,3430
+2018,april ,good,2830
+2018,april ,good,2830
+2018,may,good,1030
+2018,may,good,1030
+2018,may,good,1030
+2018,may,good,830
+2018,may,good,930
+2018,may,good,830
+2018,june ,good,530
+2018,june ,good,530
+2018,june ,good,530
+2018,june ,good,430
+2018,june ,good,430
+2018,june ,good,430
+2018,july ,good,230
+2018,july ,good,230
+2018,july ,good,230
+2018,july ,good,230
+2018,july ,good,230
+2018,july ,good,130
+2018,august ,good,1030
+2018,august ,good,1030
+2018,august ,good,930
+2018,august ,good,930
+2018,august ,good,830
+2018,august ,good,830
+2018,september,good,430
+2018,september,good,430
+2018,september,good,430
+2018,september,good,430
+2018,september,good,330
+2018,september,good,330
+2018,october ,good,230
+2018,october ,good,230
+2018,october ,good,230
+2018,october ,good,230
+2018,october ,good,230
+2018,october ,good,130
+2018,november,good,430
+2018,november,good,430
+2018,november,good,430
+2018,november,good,430
+2018,november,good,330
+2018,november,good,330
+2018,december,good,230
+2018,december,good,230
+2018,december,good,230
+2018,december,good,130
+2018,december,good,130
+2018,december,good,130
+2018,january,bad,230
+2018,january,bad,230
+2018,january,bad,230
+2018,january,bad,230
+2018,january,bad,330
+2018,january,bad,330
+2018,february,bad,430
+2018,february,bad,430
+2018,february,bad,430
+2018,february,bad,430
+2018,february,bad,530
+2018,february,bad,530
+2018,march,bad,830
+2018,march,bad,830
+2018,march,bad,830
+2018,march,bad,930
+2018,march,bad,930
+2018,march,bad,930
+2018,april ,bad,6230
+2018,april ,bad,5830
+2018,april ,bad,6230
+2018,april ,bad,6230
+2018,april ,bad,6430
+2018,april ,bad,6630
+2018,may,bad,2030
+2018,may,bad,2030
+2018,may,bad,2230
+2018,may,bad,2230
+2018,may,bad,1830
+2018,may,bad,2030
+2018,june ,bad,1030
+2018,june ,bad,1230
+2018,june ,bad,1030
+2018,june ,bad,1230
+2018,june ,bad,1430
+2018,june ,bad,1230
+2018,july ,bad,430
+2018,july ,bad,430
+2018,july ,bad,530
+2018,july ,bad,530
+2018,july ,bad,430
+2018,july ,bad,530
+2018,august ,bad,2030
+2018,august ,bad,2030
+2018,august ,bad,2230
+2018,august ,bad,1830
+2018,august ,bad,2230
+2018,august ,bad,1830
+2018,september,bad,830
+2018,september,bad,830
+2018,september,bad,930
+2018,september,bad,1030
+2018,september,bad,930
+2018,september,bad,1030
+2018,october ,bad,430
+2018,october ,bad,430
+2018,october ,bad,430
+2018,october ,bad,430
+2018,october ,bad,430
+2018,october ,bad,530
+2018,november,bad,830
+2018,november,bad,830
+2018,november,bad,830
+2018,november,bad,830
+2018,november,bad,830
+2018,november,bad,830
+2018,december,bad,430
+2018,december,bad,430
+2018,december,bad,430
+2018,december,bad,530
+2018,december,bad,530
+2018,december,bad,530
+2018,january,good,130
+2018,february,good,230
+2018,march,good,430
+2018,april ,good,3030
+2018,may,good,1030
+2018,june ,good,530
+2018,july ,good,230
+2018,august ,good,1030
+2018,september,good,430
+2018,october ,good,230
+2018,november,good,430
+2018,december,good,230
+2018,january,bad,230
+2018,february,bad,430
+2018,march,bad,830
+2018,april ,bad,6350
+2018,may,bad,2030
+2018,june ,bad,1030
+2018,july ,bad,430
+2018,august ,bad,2030
+2018,september,bad,830
+2018,october ,bad,430
+2018,november,bad,830
+2018,december,bad,430
+2018,january,good,230
+2018,january,bad,330
+2018,january,good,130
+2018,february,good,130
+2018,february,bad,430
+2018,february,good,230
+2018,february,bad,530
+2018,january,bad,230
+2018,march,good,330
+2018,march,good,330
+2018,march,bad,830
+2018,march,bad,930
+2018,april ,bad,6230
+2018,april ,bad,6430
+2018,april ,good,2830
+2018,april ,good,2630
+2018,may,bad,2230
+2018,may,bad,2430
+2018,may,good,830
+2018,may,good,630
+2018,june ,bad,1030
+2018,june ,bad,1030
+2018,june ,good,580
+2018,june ,good,630
+2018,july ,bad,430
+2018,july ,bad,530
+2018,july ,good,330
+2018,july ,good,230
+2018,august ,bad,2030
+2018,august ,bad,2230
+2018,august ,good,1230
+2018,august ,good,930
+2018,september,good,330
+2018,september,good,430
+2018,september,bad,930
+2018,september,bad,1030
+2018,october ,good,130
+2018,october ,good,230
+2018,october ,bad,430
+2018,october ,bad,530
+2018,november,bad,930
+2018,november,bad,1030
+2018,november,good,330
+2018,november,good,430
+2018,december,bad,430
+2018,december,bad,530
+2018,december,good,130
+2018,december,good,230
+2018,january,good,130
+2018,january,good,130
+2018,january,bad,430
+2018,january,bad,430
+2018,february,bad,630
+2018,february,bad,730
+2018,february,good,130
+2018,february,good,130
+2018,march,good,230
+2018,march,good,130
+2018,march,bad,1030
+2018,march,bad,1030
+2018,april ,bad,6430
+2018,april ,bad,7030
+2018,april ,good,2030
+2018,april ,good,1030
+2018,may,bad,3030
+2018,may,bad,2830
+2018,may,good,830
+2018,may,good,930
+2018,june ,bad,1430
+2018,june ,bad,1630
+2018,june ,good,330
+2018,june ,good,230
+2018,july ,bad,830
+2018,july ,bad,1030
+2018,july ,good,130
+2018,july ,good,130
+2018,august ,bad,2430
+2018,august ,bad,3030
+2018,august ,good,530
+2018,august ,good,330
+2018,september,good,230
+2018,september,good,230
+2018,september,bad,1030
+2018,september,bad,1230
+2018,october ,good,230
+2018,october ,good,130
+2018,october ,bad,830
+2018,october ,bad,730
+2018,november,bad,1030
+2018,november,bad,1630
+2018,november,good,230
+2018,november,good,230
+2018,december,bad,630
+2018,december,bad,830
+2018,december,good,130
+2018,december,good,130
+2018,january,good,130
+2018,february,bad,530
+2018,march,good,430
+2018,april ,bad,5800
+2018,may,good,930
+2018,june ,bad,1030
+2018,july ,good,230
+2018,august ,bad,2030
+2018,september,good,430
+2018,october ,bad,430
+2018,november,good,330
+2018,december,bad,430
+2018,january,good,130
+2018,january,good,130
+2018,january,good,130
+2018,january,good,230
+2018,january,good,230
+2018,january,good,230
+2018,february,good,230
+2018,february,good,230
+2018,february,good,230
+2018,february,good,330
+2018,february,good,330
+2018,february,good,330
+2018,march,good,430
+2018,march,good,430
+2018,march,good,430
+2018,march,good,430
+2018,march,good,530
+2018,march,good,530
+2018,april ,good,3030
+2018,april ,good,3050
+2018,april ,good,3030
+2018,april ,good,3430
+2018,april ,good,3030
+2018,april ,good,2830
+2018,may,good,1030
+2018,may,good,1030
+2018,may,good,1030
+2018,may,good,830
+2018,may,good,930
+2018,may,good,830
+2018,june ,good,530
+2018,june ,good,530
+2018,june ,good,530
+2018,june ,good,430
+2018,june ,good,430
+2018,june ,good,430
+2018,july ,good,230
+2018,july ,good,230
+2018,july ,good,230
+2018,july ,good,230
+2018,july ,good,230
+2018,july ,good,130
+2018,august ,good,1030
+2018,august ,good,1030
+2018,august ,good,930
+2018,august ,good,930
+2018,august ,good,830
+2018,august ,good,830
+2018,september,good,430
+2018,september,good,430
+2018,september,good,430
+2018,september,good,430
+2018,september,good,330
+2018,september,good,330
+2018,october ,good,230
+2018,october ,good,230
+2018,october ,good,230
+2018,october ,good,230
+2018,october ,good,230
+2018,october ,good,130
+2018,november,good,430
+2018,november,good,430
+2018,november,good,430
+2018,november,good,430
+2018,november,good,330
+2018,november,good,330
+2018,december,good,230
+2018,december,good,230
+2018,december,good,230
+2018,december,good,130
+2018,december,good,130
+2018,december,good,130
+2018,january,bad,230
+2018,january,bad,230
+2018,january,bad,230
+2018,january,bad,230
+2018,january,bad,330
+2018,january,bad,330
+2018,february,bad,430
+2018,february,bad,430
+2018,february,bad,430
+2018,february,bad,430
+2018,february,bad,530
+2018,february,bad,530
+2018,march,bad,830
+2018,march,bad,830
+2018,march,bad,830
+2018,march,bad,930
+2018,march,bad,930
+2018,march,bad,930
+2018,april ,bad,6230
+2018,april ,bad,5830
+2018,april ,bad,6230
+2018,april ,bad,6330
+2018,april ,bad,6330
+2018,april ,bad,6530
+2018,may,bad,2030
+2018,may,bad,2210
+2018,may,bad,2230
+2018,may,bad,2330
+2018,may,bad,1990
+2018,may,bad,2030
+2018,june ,bad,1030
+2018,june ,bad,1230
+2018,june ,bad,1030
+2018,june ,bad,1230
+2018,june ,bad,1030
+2018,june ,bad,1230
+2018,july ,bad,430
+2018,july ,bad,430
+2018,july ,bad,530
+2018,july ,bad,530
+2018,july ,bad,430
+2018,july ,bad,530
+2018,august ,bad,2030
+2018,august ,bad,2030
+2018,august ,bad,2230
+2018,august ,bad,1990
+2018,august ,bad,2210
+2018,august ,bad,1830
+2018,september,bad,830
+2018,september,bad,830
+2018,september,bad,930
+2018,september,bad,1030
+2018,september,bad,930
+2018,september,bad,1030
+2018,october ,bad,430
+2018,october ,bad,430
+2018,october ,bad,430
+2018,october ,bad,430
+2018,october ,bad,430
+2018,october ,bad,530
+2018,november,bad,830
+2018,november,bad,830
+2018,november,bad,830
+2018,november,bad,830
+2018,november,bad,830
+2018,november,bad,830
+2018,december,bad,430
+2018,december,bad,430
+2018,december,bad,430
+2018,december,bad,530
+2018,december,bad,530
+2018,december,bad,530
+2018,january,bad,230
+2018,february,bad,430
+2018,march,bad,830
+2018,april ,bad,6350
+2018,may,bad,2030
+2018,june ,bad,1030
+2018,july ,bad,430
+2018,august ,bad,2030
+2018,september,bad,830
+2018,october ,bad,430
+2018,november,bad,830
+2018,december,bad,430
+2018,january,good,130
+2018,april ,bad,7030
+2018,april ,bad,7030
+2018,december,bad,580
+2018,april ,bad,5830
+2018,april ,bad,6230
+2018,april ,bad,6330
+2018,april ,bad,6530
+2018,april ,bad,6630
+2018,april ,bad,6630
+2018,august ,good,1630
+2018,june ,bad,2330
+2018,april ,bad,6630
+2019,january,good,50
+2019,february,good,150
+2019,march,good,350
+2019,april ,good,2950
+2019,may,good,950
+2019,june ,good,450
+2019,july ,good,150
+2019,august ,good,950
+2019,september,good,350
+2019,october ,good,150
+2019,november,good,350
+2019,december,good,150
+2019,january,bad,150
+2019,february,bad,350
+2019,march,bad,750
+2019,april ,bad,5950
+2019,may,bad,1950
+2019,june ,bad,950
+2019,july ,bad,350
+2019,august ,bad,1950
+2019,september,bad,750
+2019,october ,bad,350
+2019,november,bad,750
+2019,december,bad,350
+2019,january,good,150
+2019,january,bad,250
+2019,january,good,50
+2019,february,good,150
+2019,february,bad,350
+2019,february,good,150
+2019,february,bad,450
+2019,january,bad,150
+2019,march,good,250
+2019,march,good,250
+2019,march,bad,750
+2019,march,bad,850
+2019,april ,bad,6150
+2019,april ,bad,6350
+2019,april ,good,2750
+2019,april ,good,2550
+2019,may,bad,2150
+2019,may,bad,2350
+2019,may,good,750
+2019,may,good,550
+2019,june ,bad,950
+2019,june ,bad,950
+2019,june ,good,450
+2019,june ,good,550
+2019,july ,bad,350
+2019,july ,bad,450
+2019,july ,good,250
+2019,july ,good,150
+2019,august ,bad,2150
+2019,august ,bad,2150
+2019,august ,good,950
+2019,august ,good,850
+2019,september,good,250
+2019,september,good,350
+2019,september,bad,850
+2019,september,bad,950
+2019,october ,good,50
+2019,october ,good,150
+2019,october ,bad,350
+2019,october ,bad,450
+2019,november,bad,850
+2019,november,bad,950
+2019,november,good,250
+2019,november,good,350
+2019,december,bad,350
+2019,december,bad,450
+2019,december,good,50
+2019,december,good,150
+2019,january,good,50
+2019,january,good,50
+2019,january,bad,350
+2019,january,bad,350
+2019,february,bad,550
+2019,february,bad,650
+2019,february,good,50
+2019,february,good,50
+2019,march,good,150
+2019,march,good,50
+2019,march,bad,950
+2019,march,bad,950
+2019,april ,bad,6350
+2019,april ,bad,6350
+2019,april ,good,1950
+2019,april ,good,950
+2019,may,bad,2950
+2019,may,bad,2750
+2019,may,good,750
+2019,may,good,850
+2019,june ,bad,950
+2019,june ,bad,1550
+2019,june ,good,250
+2019,june ,good,150
+2019,july ,bad,750
+2019,july ,bad,950
+2019,july ,good,50
+2019,july ,good,50
+2019,august ,bad,2550
+2019,august ,bad,2950
+2019,august ,good,450
+2019,august ,good,250
+2019,september,good,150
+2019,september,good,150
+2019,september,bad,950
+2019,september,bad,950
+2019,october ,good,150
+2019,october ,good,50
+2019,october ,bad,750
+2019,october ,bad,650
+2019,november,bad,950
+2019,november,bad,1550
+2019,november,good,150
+2019,november,good,50
+2019,december,bad,550
+2019,december,bad,750
+2019,december,good,150
+2019,december,good,50
+2019,january,good,50
+2019,february,bad,450
+2019,march,good,350
+2019,april ,bad,5550
+2019,may,good,850
+2019,june ,bad,950
+2019,july ,good,150
+2019,august ,bad,2150
+2019,september,good,350
+2019,october ,bad,350
+2019,november,good,250
+2019,december,bad,350
+2019,january,good,50
+2019,january,good,50
+2019,january,good,50
+2019,january,good,150
+2019,january,good,150
+2019,january,good,150
+2019,february,good,150
+2019,february,good,150
+2019,february,good,150
+2019,february,good,250
+2019,february,good,250
+2019,february,good,250
+2019,march,good,350
+2019,march,good,350
+2019,march,good,350
+2019,march,good,350
+2019,march,good,450
+2019,march,good,450
+2019,april ,good,2950
+2019,april ,good,3150
+2019,april ,good,2950
+2019,april ,good,3350
+2019,april ,good,2750
+2019,april ,good,2750
+2019,may,good,950
+2019,may,good,950
+2019,may,good,950
+2019,may,good,750
+2019,may,good,850
+2019,may,good,750
+2019,june ,good,450
+2019,june ,good,450
+2019,june ,good,450
+2019,june ,good,350
+2019,june ,good,350
+2019,june ,good,350
+2019,july ,good,150
+2019,july ,good,150
+2019,july ,good,150
+2019,july ,good,150
+2019,july ,good,150
+2019,july ,good,50
+2019,august ,good,950
+2019,august ,good,950
+2019,august ,good,850
+2019,august ,good,850
+2019,august ,good,750
+2019,august ,good,750
+2019,september,good,350
+2019,september,good,350
+2019,september,good,350
+2019,september,good,350
+2019,september,good,250
+2019,september,good,250
+2019,october ,good,150
+2019,october ,good,150
+2019,october ,good,150
+2019,october ,good,150
+2019,october ,good,150
+2019,october ,good,50
+2019,november,good,350
+2019,november,good,350
+2019,november,good,350
+2019,november,good,350
+2019,november,good,250
+2019,november,good,250
+2019,december,good,150
+2019,december,good,150
+2019,december,good,150
+2019,december,good,50
+2019,december,good,50
+2019,december,good,50
+2019,january,bad,150
+2019,january,bad,150
+2019,january,bad,150
+2019,january,bad,150
+2019,january,bad,250
+2019,january,bad,250
+2019,february,bad,350
+2019,february,bad,350
+2019,february,bad,350
+2019,february,bad,350
+2019,february,bad,450
+2019,february,bad,450
+2019,march,bad,750
+2019,march,bad,750
+2019,march,bad,750
+2019,march,bad,850
+2019,march,bad,850
+2019,march,bad,850
+2019,april ,bad,6150
+2019,april ,bad,5750
+2019,april ,bad,6150
+2019,april ,bad,6150
+2019,april ,bad,6350
+2019,april ,bad,6550
+2019,may,bad,1950
+2019,may,bad,1950
+2019,may,bad,2150
+2019,may,bad,2150
+2019,may,bad,1750
+2019,may,bad,1950
+2019,june ,bad,950
+2019,june ,bad,1150
+2019,june ,bad,950
+2019,june ,bad,1150
+2019,june ,bad,1220
+2019,june ,bad,1150
+2019,july ,bad,350
+2019,july ,bad,350
+2019,july ,bad,450
+2019,july ,bad,450
+2019,july ,bad,350
+2019,july ,bad,450
+2019,august ,bad,1950
+2019,august ,bad,1950
+2019,august ,bad,2150
+2019,august ,bad,1750
+2019,august ,bad,2150
+2019,august ,bad,1750
+2019,september,bad,750
+2019,september,bad,750
+2019,september,bad,850
+2019,september,bad,950
+2019,september,bad,850
+2019,september,bad,950
+2019,october ,bad,350
+2019,october ,bad,350
+2019,october ,bad,350
+2019,october ,bad,350
+2019,october ,bad,350
+2019,october ,bad,450
+2019,november,bad,750
+2019,november,bad,750
+2019,november,bad,750
+2019,november,bad,750
+2019,november,bad,750
+2019,november,bad,750
+2019,december,bad,350
+2019,december,bad,350
+2019,december,bad,350
+2019,december,bad,450
+2019,december,bad,450
+2019,december,bad,450
+2019,january,good,50
+2019,february,good,150
+2019,march,good,350
+2019,april ,good,2950
+2019,may,good,950
+2019,june ,good,450
+2019,july ,good,150
+2019,august ,good,950
+2019,september,good,350
+2019,october ,good,150
+2019,november,good,350
+2019,december,good,150
+2019,january,bad,150
+2019,february,bad,350
+2019,march,bad,750
+2019,april ,bad,5950
+2019,may,bad,1950
+2019,june ,bad,950
+2019,july ,bad,350
+2019,august ,bad,1950
+2019,september,bad,750
+2019,october ,bad,350
+2019,november,bad,750
+2019,december,bad,350
+2019,january,good,150
+2019,january,bad,250
+2019,january,good,50
+2019,february,good,50
+2019,february,bad,350
+2019,february,good,150
+2019,february,bad,450
+2019,january,bad,150
+2019,march,good,250
+2019,march,good,250
+2019,march,bad,750
+2019,march,bad,850
+2019,april ,bad,6150
+2019,april ,bad,6350
+2019,april ,good,2750
+2019,april ,good,2550
+2019,may,bad,2150
+2019,may,bad,2350
+2019,may,good,750
+2019,may,good,550
+2019,june ,bad,950
+2019,june ,bad,950
+2019,june ,good,500
+2019,june ,good,550
+2019,july ,bad,350
+2019,july ,bad,450
+2019,july ,good,250
+2019,july ,good,150
+2019,august ,bad,1950
+2019,august ,bad,2150
+2019,august ,good,1150
+2019,august ,good,850
+2019,september,good,250
+2019,september,good,350
+2019,september,bad,850
+2019,september,bad,950
+2019,october ,good,50
+2019,october ,good,150
+2019,october ,bad,350
+2019,october ,bad,450
+2019,november,bad,850
+2019,november,bad,950
+2019,november,good,250
+2019,november,good,350
+2019,december,bad,350
+2019,december,bad,450
+2019,december,good,50
+2019,december,good,150
+2019,january,good,50
+2019,january,good,50
+2019,january,bad,350
+2019,january,bad,350
+2019,february,bad,550
+2019,february,bad,650
+2019,february,good,50
+2019,february,good,50
+2019,march,good,150
+2019,march,good,50
+2019,march,bad,950
+2019,march,bad,950
+2019,april ,bad,6350
+2019,april ,bad,6950
+2019,april ,good,1950
+2019,april ,good,950
+2019,may,bad,2950
+2019,may,bad,2750
+2019,may,good,750
+2019,may,good,850
+2019,june ,bad,1220
+2019,june ,bad,1550
+2019,june ,good,250
+2019,june ,good,150
+2019,july ,bad,750
+2019,july ,bad,950
+2019,july ,good,50
+2019,july ,good,50
+2019,august ,bad,2350
+2019,august ,bad,2950
+2019,august ,good,450
+2019,august ,good,250
+2019,september,good,150
+2019,september,good,150
+2019,september,bad,950
+2019,september,bad,1150
+2019,october ,good,150
+2019,october ,good,50
+2019,october ,bad,750
+2019,october ,bad,650
+2019,november,bad,950
+2019,november,bad,1550
+2019,november,good,150
+2019,november,good,150
+2019,december,bad,550
+2019,december,bad,750
+2019,december,good,50
+2019,december,good,50
+2019,january,good,50
+2019,february,bad,450
+2019,march,good,350
+2019,april ,bad,5550
+2019,may,good,850
+2019,june ,bad,950
+2019,july ,good,150
+2019,august ,bad,1950
+2019,september,good,350
+2019,october ,bad,350
+2019,november,good,250
+2019,december,bad,350
+2019,january,good,50
+2019,january,good,50
+2019,january,good,50
+2019,january,good,150
+2019,january,good,150
+2019,january,good,150
+2019,february,good,150
+2019,february,good,150
+2019,february,good,150
+2019,february,good,250
+2019,february,good,250
+2019,february,good,250
+2019,march,good,350
+2019,march,good,350
+2019,march,good,350
+2019,march,good,350
+2019,march,good,450
+2019,march,good,450
+2019,april ,good,2950
+2019,april ,good,3150
+2019,april ,good,2950
+2019,april ,good,3350
+2019,april ,good,2950
+2019,april ,good,2750
+2019,may,good,950
+2019,may,good,950
+2019,may,good,950
+2019,may,good,750
+2019,may,good,850
+2019,may,good,750
+2019,june ,good,450
+2019,june ,good,450
+2019,june ,good,450
+2019,june ,good,350
+2019,june ,good,350
+2019,june ,good,350
+2019,july ,good,150
+2019,july ,good,150
+2019,july ,good,150
+2019,july ,good,150
+2019,july ,good,150
+2019,july ,good,50
+2019,august ,good,950
+2019,august ,good,950
+2019,august ,good,850
+2019,august ,good,850
+2019,august ,good,750
+2019,august ,good,750
+2019,september,good,350
+2019,september,good,350
+2019,september,good,350
+2019,september,good,350
+2019,september,good,250
+2019,september,good,250
+2019,october ,good,150
+2019,october ,good,150
+2019,october ,good,150
+2019,october ,good,150
+2019,october ,good,150
+2019,october ,good,50
+2019,november,good,350
+2019,november,good,350
+2019,november,good,350
+2019,november,good,350
+2019,november,good,250
+2019,november,good,250
+2019,december,good,150
+2019,december,good,150
+2019,december,good,150
+2019,december,good,50
+2019,december,good,50
+2019,december,good,50
+2019,january,bad,150
+2019,january,bad,150
+2019,january,bad,150
+2019,january,bad,150
+2019,january,bad,250
+2019,january,bad,250
+2019,february,bad,350
+2019,february,bad,350
+2019,february,bad,350
+2019,february,bad,350
+2019,february,bad,450
+2019,february,bad,450
+2019,march,bad,750
+2019,march,bad,750
+2019,march,bad,750
+2019,march,bad,850
+2019,march,bad,850
+2019,march,bad,850
+2019,april ,bad,6150
+2019,april ,bad,5750
+2019,april ,bad,6150
+2019,april ,bad,6250
+2019,april ,bad,6250
+2019,april ,bad,6450
+2019,may,bad,1950
+2019,may,bad,2050
+2019,may,bad,2150
+2019,may,bad,2250
+2019,may,bad,1850
+2019,may,bad,1950
+2019,june ,bad,950
+2019,june ,bad,1150
+2019,june ,bad,950
+2019,june ,bad,1150
+2019,june ,bad,950
+2019,june ,bad,1150
+2019,july ,bad,350
+2019,july ,bad,350
+2019,july ,bad,450
+2019,july ,bad,450
+2019,july ,bad,350
+2019,july ,bad,450
+2019,august ,bad,1950
+2019,august ,bad,1950
+2019,august ,bad,2150
+2019,august ,bad,1850
+2019,august ,bad,2050
+2019,august ,bad,1750
+2019,september,bad,750
+2019,september,bad,750
+2019,september,bad,850
+2019,september,bad,950
+2019,september,bad,850
+2019,september,bad,950
+2019,october ,bad,350
+2019,october ,bad,350
+2019,october ,bad,350
+2019,october ,bad,350
+2019,october ,bad,350
+2019,october ,bad,450
+2019,november,bad,750
+2019,november,bad,750
+2019,november,bad,750
+2019,november,bad,750
+2019,november,bad,750
+2019,november,bad,750
+2019,december,bad,350
+2019,december,bad,350
+2019,december,bad,350
+2019,december,bad,450
+2019,december,bad,450
+2019,december,bad,450
+2019,january,bad,150
+2019,february,bad,350
+2019,march,bad,750
+2019,april ,bad,5950
+2019,may,bad,1950
+2019,june ,bad,950
+2019,july ,bad,350
+2019,august ,bad,1950
+2019,september,bad,750
+2019,october ,bad,350
+2019,november,bad,750
+2019,december,bad,350
+2019,january,good,50
+2019,april ,bad,6950
+2019,april ,bad,6950
+2019,december,bad,500
+2019,april ,bad,5750
+2019,april ,bad,6150
+2019,april ,bad,6250
+2019,april ,bad,6450
+2019,april ,bad,6550
+2019,april ,bad,6550
+2019,august ,good,1550
+2019,june ,bad,2250
+2019,april ,bad,6550
